@@ -1,0 +1,1710 @@
+[BEGIN] 2017/11/27 17:16:49
+                                                                                                                  
+ J_ZongHeLou_MA5680T(config)#display current-configuration section global-config               
+YJ_ZongHeLou_MA5680T(config)#
+
+YJ_ZongHeLou_MA5680T(config)#
+
+YJ_ZongHeLou_MA5680T(config)#
+
+YJ_ZongHeLou_MA5680T(config)#
+
+YJ_ZongHeLou_MA5680T(config)#
+
+YJ_ZongHeLou_MA5680T(config)#
+
+YJ_ZongHeLou_MA5680T(config)#
+
+YJ_ZongHeLou_MA5680T(config)#
+
+YJ_ZongHeLou_MA5680T(config)#
+
+YJ_ZongHeLou_MA5680T(config)#
+
+YJ_ZongHeLou_MA5680T(config)#scroll
+{ <cr>|number<U><10,512> }:
+
+  命令：
+        scroll 
+
+YJ_ZongHeLou_MA5680T(config)#
+
+YJ_ZongHeLou_MA5680T(config)#
+
+YJ_ZongHeLou_MA5680T(config)#display current-configuration section global-config | include name
+  如果搜索的内容太多或者输入的字符串太长可能需要比较长的时间，在任何时候可以按CTRL_C退出
+ sysname YJ_ZongHeLou_MA5680T
+ terminal user name buildrun_new_password root *J$1a$}IIl::)k[0$#vlk*")k9WT^1l@ zqsFBc#c9-xyOAK1Q>9<v,)f:$* 7 0000:00:00:00:00:00 2017:01:23:17:20:18 root 2 "
+-----"
+ terminal user name buildrun_new_password liuwanheng *[RESK`WEGO-CDW"aGV,2*Q1]!* 0 2012:01:20:12:12:07 2012:01:20:12:12:07 root 3 7 "liuwanheng"
+ terminal user name buildrun_new_password luolianbin *[$1a$JU>b,Wz"Z,$9$
+4BQgTTfH9AT_7}iCDN$OV.+2)Ay'&7eY(a'ro'$* 0 2012:01:20:12:12:07 
+2012:01:20:12:12:07 root 4 "luolianbin"
+ terminal user name buildrun_new_password duchouzai *Z$1a$&5QDEGceP4$LoM;=43^E, wa(]Jb,m3BM79K#NyU=VRg,*/%{DWO$* 0 2012:01:20:12:12:09 2012:01:20:12:12:09 root 5 "duchouzai"
+ terminal user name buildrun_new_password zhangxinban *H$1a$(/49VGN"p/$o4,g>8wS])r"j/YaTvx2Rs>`Uo->@%>%>(Q0ufA3$* 0 2012:11:09:10:37:38 2012:11:09:10:37:38 root 6 "yjgmcc"
+ terminal user name buildrun_new_password fenghankui *H3QaJ/Z4A6R"K;21V;;(A%/Y!* 0 2013:06:29:11:09:45 2013:06:29:11:09:45 root 7 8 "yjgmcc"
+ terminal user name buildrun_new_password liangbocheng *[$1a$)HAR~kob}$$P@inY!
+dt((ZZIcEn(O|XG`QC#Z)`y7m*Ty:/PQ2-$* 0 2015:03:27:15:36:26 2016:03:08:10:32:28  root 8 "yjgmcc"
+ terminal user name buildrun_new_password zhaohaiyang *H$1a$\/YZ0N%[EE$u:`q@[
+thcL*Y]^G%9T}D#MJmTN.$}52a8/Z,IVc+$* 0 2015:04:02:23:36:01 2015:04:02:23:36:01  root 9 "yjgmcc"
+ terminal user name buildrun_new_password huangxiuzhong *IWQ[@)$)32H6/ID+1CZ@Z((A!* 0 2015:04:02:23:36:04 2015:04:02:23:36:04 root 10 7 "yjgmcc"
+ terminal user name buildrun_new_password zhuzhiyong *H$1a$[>S3&~vjcE$FBC(Ojzp' XLa,&Zsj}fL6z1DMqKZZT->#Y5^sE|5$* 0 2015:04:03:00:32:44 2015:04:03:00:32:44 root 11 "yjgmcc"
+ terminal user name buildrun_new_password luqiuru *H$1a$cXQu<_`>7P$Uz-8<,uGIB|` MX,+`GuJRU>[!]y~s-Jfe^2Y.m!J$* 0 2015:04:03:00:32:46 2015:04:03:00:32:46 root 12 "yjgmcc"
+ terminal user name buildrun_new_password huangyanfeng *H$1a$Ty^A1~po]($ku+G+B3:/W&*W6FryH8X#^DK-gm6PY2]TF6yD^o=$* 0 2015:04:03:00:32:49 2015:04:03:00:32:49 
+root 13 "yjgmcc"
+ terminal user name buildrun_new_password mojinchao *H$1a$t#l[E5H!h"$
+PFkUNipzU0F{r7NlQ,+9ePmy#I+V'=3YhtH+=^RA$* 0 2015:04:03:00:32:52 
+2015:04:03:00:32:52 root 14 "yjgmcc"
+ terminal user name buildrun_new_password modehua *H$1a$IIAn.*kuFT$\z.N3T{8d@:: d2(d`0aJm/f>)8E",Uz'U$.xeiL@$* 0 2015:04:03:00:32:54 2015:04:03:00:32:54 root 15 "yjgmcc"
+ terminal user name buildrun_new_password chenguojian *H$1a$Mp_P$Sz9$)$]SC/Z[`
+-QFzmh%Al@NH@#V/hB1PM|XXp,lYWpx\0$* 0 2015:04:03:00:32:57 2015:04:03:00:32:57 
+root 16 "yjgmcc"
+ terminal user name buildrun_new_password huangbinhui *H$1a$AatWMe~\S'$BRD$#*Mt[6&;LOEn3Lh6YC9W478>JV-&48:8QxQV$* 0 2015:04:03:00:32:59 2015:04:03:00:32:59 root 17 "yjgmcc"
+ terminal user name buildrun_new_password luolianbin2 *[$1a$4'5iW)$Gx!$
+RpYMOM4qF%|vEe4(>"14.(8!+22SFNF-yX#S.MdX$* 0 2015:10:22:00:59:56 
+2015:10:22:00:59:56 root 18 "yjgmcc"
+ terminal user name buildrun_new_password luolianbin3 *[$1a$U2P2:qA(8S$$e$1@
+LAt5+D>$IS"!p=,9(0a(fge&N;yCMJ$;765$* 0 2015:10:22:00:59:58 2015:10:22:00:59:58 root 19 "yjgmcc"
+ terminal user name buildrun_new_password xieguomi *[$1a$0)[:Dh~b{F$D3pIM9e>y<
+EqFf*23<]AL*z^#D@08~N*,J,.}"_Q$* 0 2015:12:15:17:13:34 2015:12:15:17:13:34 root 20 "yjgmcc"
+ terminal user name buildrun_new_password luoyang *Z$1a$8FK)YP"*|T$s{
+niCsdK3AHm2#X}+S,>qPV$6QO7:'#q+%5/cB;J$* 0 2016:02:18:09:49:19 
+2016:02:18:09:49:19 root 21 "-----"
+ terminal user name buildrun_new_password liangyechang *H$1a$B:$E:$96M<$es$)<
+fg8*VoYx1TXD%4HHtCIINkU3#Ipu1-i(@xH$* 0 2016:04:07:17:08:45 2016:04:07:17:08:45 root 22 "-----"
+ terminal user name buildrun_new_password chenmaohong *H$1a$TWzz:lN7n($|Oz*)%"3^<tGQh8bot*;xJBR"4b|')noo["tXX/-$* 0 2016:04:07:17:08:46 2016:04:07:17:08:46 root 23 "-----"
+ terminal user name buildrun_new_password zhoujiawen *H$1a$@J.#Jw+0yX$f"E(HB13S~}*fpA}Z}O#TB)BK6PhL5>RPF%.$=x8$* 0 2016:04:07:17:08:46 2016:04:07:17:08:46 root 24 "-----"
+ terminal user name buildrun_new_password huangchaozhen *H$1a$q(QlNh"u2,$/+Y|3E|c7:yJRg.QK[:&rB';Yd]LqDA%*g4xGW<W$* 0 2016:04:07:17:08:47 2016:04:07:17:08:47 
+root 25 "-----"
+ terminal user name buildrun_new_password tanchaoqin *H$1a$WZ5'-o8$M!$x:vCU]
+ndaIWOvD1%cnnF*NVa$gLJE9ip{i5mw`L:$* 0 2016:04:07:17:08:47 2016:04:07:17:08:47  root 26 "-----"
+ terminal user name buildrun_new_password xujianzhong *H$1a$g>cVA^t@I0$Hn%}:D~{>K!3eh&NlyARl].mHI`~[7U(pnQu}gsT$* 0 2016:04:07:17:08:48 2016:04:07:17:08:48 root 27 "-----"
+ terminal user name buildrun_new_password lijianqiang *H$1a$H_>]HV3B"($}*dw<eU. F7K$4*#6\rCGAE@b*b7Tf-Il7g2cDF8A$* 0 2016:04:07:17:08:48 2016:04:07:17:08:48 
+root 28 "-----"
+ terminal user name buildrun_new_password chenqiang *I$1a$+VCC')7FXX$*0u\
+WwdyuS6Sd9+pZ7-6"FPS#g-EhWL[35~]9;<$$* 0 2016:04:13:09:08:15 2016:04:13:09:08:15 root 29 "-----"
+ terminal user name buildrun_new_password dwlinweixiong *I$1a$r_l:A"$g:9$L#))%@ AzI&Sa<o96oK'Ut/[@(beLPMB-EY8qRNi+$* 0 2017:01:03:11:47:50 2017:01:03:11:47:50  root 30 "-----"
+ terminal user name buildrun_new_password shenggongsi *I$1a$c0Yr2$T=]J$s.rfHGkX}+X$~$W(Ixy6yL~)28->7;D:X+EL`7O0$* 0 2017:02:15:15:35:49 2017:02:15:15:35:49 root 31 "-----"
+ terminal user name buildrun_new_password huangrongxiao *H$1a$'r-q#:u}'V$_#sd$
+cVZ/%&VG<CnPla(:*[s2p"_6WkuCwT9-$7Q$* 0 2017:05:02:10:51:36 2017:05:02:10:51:36 root 32 "-----"
+ terminal user name buildrun_new_password utraffic *G$1a$jm+QBC-Mg#$89$#-\o9$P6`9O1]AM^JU%aGOwg($K&+sS7vsjDY$* 0 2017:07:13:18:40:10 2017:07:13:18:40:10 root 33 "华为流量系统utraffic专用"
+ terminal user name buildrun_new_password zhengyanfeng *H$1a$0UNnG\YKj4$M>T(+}
+bdiS38wGY{WTH:P-45/,#HXJ0%k[B+1qK($* 0 2017:07:15:22:18:47 2017:07:15:22:18:47  root 34 "gmcc"
+ terminal user name buildrun_new_password heyixiang *H$1a$)U~uDI&X|;$$T^zG|>y<
+1p]}BWm=%F+$,>vF0qw[IET.5FaxGj)$* 0 2017:07:15:22:18:49 2017:07:15:22:18:49 root 35 "gmcc"
+ terminal user name buildrun_new_password renzhaojiang *H$1a$36v5W~j;g2$B@$CW*
+j2OU#f4o/'VD)5"HwxJ=88*@P_|e2xVcrE$* 0 2017:07:15:22:18:52 2017:07:15:22:18:52  root 36 "gmcc"
+ terminal user name buildrun_new_password xiefuyuan *H$1a$_}DWLY/S#D$
+sEVvWRGGHFCGR-E;.\WPGS$+2pk86G4C;O$z<{F/$* 0 2017:07:15:22:18:58 
+2017:07:15:22:18:58 root 37 "gmcc"
+ terminal user name buildrun_new_password chenyuanlian *H$1a$(J%(XjNw3@$8h")S)d)}(4gf#8A3fG>@F)r9XIkNRHj&R)$1$+@$* 0 2017:07:15:22:19:01 2017:07:15:22:19:01 
+root 38 "gmcc"
+ terminal user name buildrun_new_password ruanguangzi *H$1a$`f*5C4Bsn4$jVQ[7mL] 4+T+7bF=2`L:WVRxQ]D%Q(i~39ZW7lMP$* 0 2017:07:15:22:19:04 2017:07:15:22:19:04 
+root 39 "gmcc"
+ terminal user name buildrun_new_password liangrongdong *H$1a$2}1@L:):,.$I_Tb@P,<j-"rTi/`FX\Fxq[.UR\oz7LUWMUu2(YA$* 0 2017:07:15:22:19:07 2017:07:15:22:19:07 
+root 40 "gmcc"
+ terminal user name buildrun_new_password linliangpeng *H$1a$9frF<3A^cA$S1$n/`
+T4TQ@OnmLDd^0=mLB-:^P>uYzCGZG138j+$* 0 2017:07:15:22:19:10 2017:07:15:22:19:10  root 41 "gmcc"
+ terminal user name buildrun_new_password sunyangchao *H$1a$3<*:*$SFR4$z<&^~
+N1ZyIx(i$Z=T,w8l,*u3)/z$:}C4b8j<s1:$* 0 2017:07:15:22:19:13 2017:07:15:22:19:13 root 42 "gmcc"
+ terminal user name buildrun_new_password tongyong2 *Z$1a$G/p;3;ZS;6$P`CdH.{'k# w"m^4xx~i6\xq<Z&dvBK+v2#G+s`sG$* 0 2017:09:01:14:57:07 2017:09:01:14:57:07 root 43 "gmcc"
+ terminal user name buildrun_new_password tongyong1 *Z$1a$u9u&*"MZ3W$mFne>;ex)=;MxfII!!:#c%b_7`>d:A\;=v8EheS1$* 0 2017:09:01:14:57:09 2017:09:01:14:57:09 root  44 "gmcc"
+ terminal user name buildrun_new_password raoxiuqi *[$1a$\i))3i56CV$6^-l$W^5}#
+9uK97XGQjUSO`\H>ODlF7:MuWWGl~8$* 0 2017:09:01:14:57:11 2017:09:01:14:57:11 root 45 "gmcc"
+ terminal user name buildrun_new_password dwsuzhangmin *H$1a$|n-~T'g`xE$4KA9@^
+sv^7,}i7,v|Y;NZ0hJJI-#11yx}9X\bLlP$* 0 2017:09:01:14:57:14 2017:09:01:14:57:14  root 46 "gmcc"
+ terminal user name buildrun_new_password liangshaozhuo *H$1a$:]P<+{MV\C$"S+!I& GYD7RCN/04;7O"g$`8@7L9j~Id]+HB;oTX$* 0 2017:09:01:14:57:15 2017:09:01:14:57:15  root 47 "gmcc"
+ terminal user name history_password root *J$1a$<y~ZCXD&q.$nthY$7wDC>S@=w~
+lnjdTHNgRHAjR5Pk.t/>}g5JA$*
+ terminal user name history_password liangbocheng *[$1a$%>)38)$9L)$%@OIN!]o\Jt[&(<3c>uL,#Y@6rW~&.U6[]GOr6hA$*
+ traffic table ip index 7 name "Manager" cir off color-mode color-blind priority user-cos 6 priority-policy tag-in-package
+ traffic table ip index 8 name "PPPOE" cir 51200 cbs 1640400 pir 102400 pbs 
+3278800 color-mode color-blind priority user-cos 0 priority-policy 
+tag-in-package
+ traffic table ip index 9 name "PPPOE-8M" cir 8192 cbs 10240 pir 10240 pbs 10240 color-mode color-blind priority 0 priority-policy local-setting
+ traffic table ip index 10 name "VOICE-1M" cir 1024 cbs 2048 pir 2048 pbs 2048  color-mode color-blind priority 0 priority-policy local-setting
+ traffic table ip index 11 name "EPL-100M" cir 102400 cbs 3278800 pir 204800 pbs 6555600 color-mode color-blind priority 0 priority-policy local-setting
+ traffic table ip index 12 name "PPPOE-8M-NEW" cir 8192 cbs 264144 pir 10240 pbs 329680 color-mode color-blind priority 0 priority-policy local-setting
+ traffic table ip index 13 name "VOICE-1M-NEW" cir 1024 cbs 34768 pir 2048 pbs  67536 color-mode color-blind priority 0 priority-policy local-setting
+ traffic table ip index 14 name "EPL-2M" cir 2048 cbs 67536 pir 4096 pbs 133072 color-mode color-blind priority 0 priority-policy local-setting
+ traffic table ip index 15 name "FTTB-MANAGER-NEW" cir off color-mode 
+color-blind priority user-cos 6 inner-priority 6 priority-policy tag-in-package
+ traffic table ip index 16 name "FTTB-VOICE-NEW" cir off color-mode color-blind priority user-cos 5 inner-priority 5 priority-policy tag-in-package
+ traffic table ip index 17 name "FTTB-IPTV-NEW" cir off color-mode color-blind  priority user-cos 4 inner-priority 4 priority-policy tag-in-package
+ traffic table ip index 18 name "FTTB-VPN-NEW" cir off color-mode color-blind 
+priority user-cos 3 inner-priority 3 priority-policy tag-in-package
+ traffic table ip index 19 name "FTTB-EPL-NEW" cir off color-mode color-blind 
+priority user-cos 2 inner-priority 2 priority-policy tag-in-package
+ traffic table ip index 20 name "FTTB-WLAN-NEW" cir off color-mode color-blind  priority user-cos 1 inner-priority 1 priority-policy tag-in-package
+ traffic table ip index 21 name "FTTB-PPPOE-NEW" cir off color-mode color-blind priority user-cos 0 priority-policy tag-in-package
+ traffic table ip index 22 name "FTTH-VOICE-NEW" cir off color-mode color-blind priority user-cos 5 inner-priority 5 priority-policy tag-in-package
+ traffic table ip index 23 name "FTTH-IPTV-NEW" cir off color-mode color-blind  priority user-cos 4 inner-priority 4 priority-policy tag-in-package
+ traffic table ip index 24 name "FTTH-VPN-2M-NEW" cir 2048 cbs 67536 pir 4096 
+pbs 133072 color-mode color-blind priority user-cos 3 inner-priority 3 
+priority-policy tag-in-package
+ traffic table ip index 25 name "FTTH-EPL-2M-NEW" cir 2048 cbs 67536 pir 4096 
+pbs 133072 color-mode color-blind priority user-cos 2 inner-priority 2 
+priority-policy tag-in-package
+ traffic table ip index 26 name "FTTH-WLAN-2M-NEW" cir 2048 cbs 67536 pir 4096  pbs 133072 color-mode color-blind priority user-cos 1 inner-priority 1 
+priority-policy tag-in-package
+ traffic table ip index 27 name "FTTH-PPPOE-2M-NEW" cir 2048 cbs 67536 pir 4096 pbs 133072 color-mode color-blind priority user-cos 0 priority-policy 
+tag-in-package
+ traffic table ip index 28 name "FTTH-VPN-4M-NEW" cir 4096 cbs 133072 pir 8192  pbs 264144 color-mode color-blind priority user-cos 3 inner-priority 3 
+priority-policy tag-in-package
+ traffic table ip index 29 name "FTTH-EPL-4M-NEW" cir 4096 cbs 133072 pir 8192  pbs 264144 color-mode color-blind priority user-cos 2 inner-priority 2 
+priority-policy tag-in-package
+ traffic table ip index 30 name "FTTH-WLAN-4M-NEW" cir 4096 cbs 133072 pir 8192 pbs 264144 color-mode color-blind priority user-cos 1 inner-priority 1 
+priority-policy tag-in-package
+ traffic table ip index 31 name "FTTH-PPPOE-4M-NEW" cir 4096 cbs 133072 pir 8192 pbs 264144 color-mode color-blind priority user-cos 0 priority-policy 
+tag-in-package
+ traffic table ip index 32 name "FTTH-VPN-8M-NEW" cir 8192 cbs 264144 pir 16384 pbs 526288 color-mode color-blind priority user-cos 3 inner-priority 3 
+priority-policy tag-in-package
+ traffic table ip index 33 name "FTTH-EPL-8M-NEW" cir 8192 cbs 264144 pir 16384 pbs 526288 color-mode color-blind priority user-cos 2 inner-priority 2 
+priority-policy tag-in-package
+ traffic table ip index 34 name "FTTH-WLAN-8M-NEW" cir 8192 cbs 264144 pir 16384 pbs 526288 color-mode color-blind priority user-cos 1 inner-priority 1 
+priority-policy tag-in-package
+ traffic table ip index 35 name "FTTH-PPPOE-8M-NEW" cir 8192 cbs 264144 pir 
+16384 pbs 526288 color-mode color-blind priority user-cos 0 priority-policy 
+tag-in-package
+ traffic table ip index 36 name "FTTH-VPN-10M-NEW" cir 10240 cbs 329680 pir 
+20480 pbs 657360 color-mode color-blind priority user-cos 3 inner-priority 3 
+priority-policy tag-in-package
+ traffic table ip index 37 name "FTTH-EPL-10M-NEW" cir 10240 cbs 329680 pir 
+20480 pbs 657360 color-mode color-blind priority user-cos 2 inner-priority 2 
+priority-policy tag-in-package
+ traffic table ip index 38 name "FTTH-WLAN-10M-NEW" cir 10240 cbs 329680 pir 
+20480 pbs 657360 color-mode color-blind priority user-cos 1 inner-priority 1 
+priority-policy tag-in-package
+ traffic table ip index 39 name "FTTH-PPPOE-10M-NEW" cir 10240 cbs 329680 pir 
+20480 pbs 657360 color-mode color-blind priority user-cos 0 priority-policy 
+tag-in-package
+ traffic table ip index 40 name "FTTH-VPN-20M-NEW" cir 20480 cbs 657360 pir 
+40960 pbs 1312720 color-mode color-blind priority user-cos 3 inner-priority 3 
+priority-policy tag-in-package
+ traffic table ip index 41 name "FTTH-EPL-20M-NEW" cir 20480 cbs 657360 pir 
+40960 pbs 1312720 color-mode color-blind priority user-cos 2 inner-priority 2 
+priority-policy tag-in-package
+ traffic table ip index 42 name "FTTH-WLAN-20M-NEW" cir 20480 cbs 657360 pir 
+40960 pbs 1312720 color-mode color-blind priority user-cos 1 inner-priority 1 
+priority-policy tag-in-package
+ traffic table ip index 43 name "FTTH-PPPOE-20M-NEW" cir 20480 cbs 657360 pir 
+40960 pbs 1312720 color-mode color-blind priority user-cos 0 priority-policy 
+tag-in-package
+ traffic table ip index 44 name "FTTH-VPN-30M-NEW" cir 30720 cbs 985040 pir 
+61440 pbs 1968080 color-mode color-blind priority user-cos 3 inner-priority 3 
+priority-policy tag-in-package
+ traffic table ip index 45 name "FTTH-EPL-30M-NEW" cir 30720 cbs 985040 pir 
+61440 pbs 1968080 color-mode color-blind priority user-cos 2 inner-priority 2 
+priority-policy tag-in-package
+ traffic table ip index 46 name "FTTH-WLAN-30M-NEW" cir 30720 cbs 985040 pir 
+61440 pbs 1968080 color-mode color-blind priority user-cos 1 inner-priority 1 
+priority-policy tag-in-package
+ traffic table ip index 47 name "FTTH-PPPOE-30M-NEW" cir 30720 cbs 985040 pir 
+61440 pbs 1968080 color-mode color-blind priority user-cos 0 priority-policy 
+tag-in-package
+ traffic table ip index 48 name "FTTH-VPN-40M-NEW" cir 40960 cbs 1312720 pir 
+81920 pbs 2623440 color-mode color-blind priority user-cos 3 inner-priority 3 
+priority-policy tag-in-package
+ traffic table ip index 49 name "FTTH-EPL-40M-NEW" cir 40960 cbs 1312720 pir 
+81920 pbs 2623440 color-mode color-blind priority user-cos 2 inner-priority 2 
+priority-policy tag-in-package
+ traffic table ip index 50 name "FTTH-WLAN-40M-NEW" cir 40960 cbs 1312720 pir 
+81920 pbs 2623440 color-mode color-blind priority user-cos 1 inner-priority 1 
+priority-policy tag-in-package
+ traffic table ip index 51 name "FTTH-PPPOE-40M-NEW" cir 40960 cbs 1312720 pir  81920 pbs 2623440 color-mode color-blind priority user-cos 0 priority-policy 
+tag-in-package
+ traffic table ip index 52 name "FTTH-VPN-50M-NEW" cir 51200 cbs 1640400 pir 
+102400 pbs 3278800 color-mode color-blind priority user-cos 3 inner-priority 3  priority-policy tag-in-package
+ traffic table ip index 53 name "FTTH-EPL-50M-NEW" cir 51200 cbs 1640400 pir 
+102400 pbs 3278800 color-mode color-blind priority user-cos 2 inner-priority 2  priority-policy tag-in-package
+ traffic table ip index 54 name "FTTH-WLAN-50M-NEW" cir 51200 cbs 1640400 pir 
+102400 pbs 3278800 color-mode color-blind priority user-cos 1 inner-priority 1  priority-policy tag-in-package
+ traffic table ip index 55 name "FTTH-PPPOE-50M-NEW" cir 51200 cbs 1640400 pir  102400 pbs 3278800 color-mode color-blind priority user-cos 0 priority-policy 
+tag-in-package
+ traffic table ip index 56 name "FTTH-VPN-100M-NEW" cir 102400 cbs 3278800 pir  204800 pbs 6555600 color-mode color-blind priority user-cos 3 inner-priority 3  priority-policy tag-in-package
+ traffic table ip index 57 name "FTTH-EPL-100M-NEW" cir 102400 cbs 3278800 pir  204800 pbs 6555600 color-mode color-blind priority user-cos 2 inner-priority 2  priority-policy tag-in-package
+ traffic table ip index 58 name "FTTH-WLAN-100M-NEW" cir 102400 cbs 3278800 pir 204800 pbs 6555600 color-mode color-blind priority user-cos 1 inner-priority 1  priority-policy tag-in-package
+ traffic table ip index 59 name "FTTH-PPPOE-100M-NEW" cir 102400 cbs 3278800 pir 204800 pbs 6555600 color-mode color-blind priority user-cos 0 priority-policy  tag-in-package
+ traffic table ip index 60 name "FTTH-EPL-16M-NEW" cir 16384 cbs 526288 pir 
+32768 pbs 1050576 color-mode color-blind priority user-cos 2 inner-priority 2 
+priority-policy tag-in-package
+ traffic table ip index 61 name "FTTH-VPN-12M-NEW" cir 12288 cbs 395216 pir 
+24576 pbs 788432 color-mode color-blind priority user-cos 3 inner-priority 3 
+priority-policy tag-in-package
+ traffic table ip index 62 name "FTTH-EPL-12M-NEW" cir 12288 cbs 395216 pir 
+24576 pbs 788432 color-mode color-blind priority user-cos 2 inner-priority 2 
+priority-policy tag-in-package
+ traffic table ip index 63 name "FTTH-WLAN-12M-NEW" cir 12288 cbs 395216 pir 
+24576 pbs 788432 color-mode color-blind priority user-cos 1 inner-priority 1 
+priority-policy tag-in-package
+ traffic table ip index 64 name "FTTH-PPPOE-12M-NEW" cir 12288 cbs 395216 pir 
+24576 pbs 788432 color-mode color-blind priority user-cos 0 priority-policy 
+tag-in-package
+ traffic table ip index 65 name "FTTH-VPN-14M-NEW" cir 14336 cbs 460752 pir 
+28672 pbs 919504 color-mode color-blind priority user-cos 3 inner-priority 3 
+priority-policy tag-in-package
+ traffic table ip index 66 name "FTTH-EPL-14M-NEW" cir 14336 cbs 460752 pir 
+28672 pbs 919504 color-mode color-blind priority user-cos 2 inner-priority 2 
+priority-policy tag-in-package
+ traffic table ip index 67 name "FTTH-WLAN-14M-NEW" cir 14336 cbs 460752 pir 
+28672 pbs 919504 color-mode color-blind priority user-cos 1 inner-priority 1 
+priority-policy tag-in-package
+ traffic table ip index 68 name "FTTH-PPPOE-14M-NEW" cir 14336 cbs 460752 pir 
+28672 pbs 919504 color-mode color-blind priority user-cos 0 priority-policy 
+tag-in-package
+ traffic table ip index 69 name "FTTH-VPN-16M-NEW" cir 16384 cbs 526288 pir 
+32768 pbs 1050576 color-mode color-blind priority user-cos 3 inner-priority 3 
+priority-policy tag-in-package
+ traffic table ip index 70 name "FTTH-WLAN-16M-NEW" cir 16384 cbs 526288 pir 
+32768 pbs 1050576 color-mode color-blind priority user-cos 1 inner-priority 1 
+priority-policy tag-in-package
+ traffic table ip index 71 name "FTTH-PPPOE-16M-NEW" cir 16384 cbs 526288 pir 
+32768 pbs 1050576 color-mode color-blind priority user-cos 0 priority-policy 
+tag-in-package
+ traffic table ip index 72 name "FTTH-VPN-18M-NEW" cir 18432 cbs 591824 pir 
+36864 pbs 1181648 color-mode color-blind priority user-cos 3 inner-priority 3 
+priority-policy tag-in-package
+ traffic table ip index 73 name "FTTH-EPL-18M-NEW" cir 18432 cbs 591824 pir 
+36864 pbs 1181648 color-mode color-blind priority user-cos 2 inner-priority 2 
+priority-policy tag-in-package
+ traffic table ip index 74 name "FTTH-WLAN-18M-NEW" cir 18432 cbs 591824 pir 
+36864 pbs 1181648 color-mode color-blind priority user-cos 1 inner-priority 1 
+priority-policy tag-in-package
+ traffic table ip index 75 name "FTTH-WLAN-MANAGE" cir 1024 cbs 34768 pir 2048  pbs 67536 color-mode color-blind priority user-cos 4 inner-priority 4 
+priority-policy tag-in-package
+ traffic table ip index 76 name "FTTH-VPN-6M-NEW" cir 6144 cbs 198608 pir 12288 pbs 395216 color-mode color-blind priority user-cos 3 inner-priority 3 
+priority-policy tag-in-package
+ traffic table ip index 77 name "FTTH-EPL-6M-NEW" cir 6144 cbs 198608 pir 12288 pbs 395216 color-mode color-blind priority user-cos 2 inner-priority 2 
+priority-policy tag-in-package
+ traffic table ip index 78 name "FTTH-WLAN-6M-NEW" cir 6144 cbs 198608 pir 12288 pbs 395216 color-mode color-blind priority user-cos 1 inner-priority 1 
+priority-policy tag-in-package
+ traffic table ip index 79 name "FTTH-PPPOE-6M-NEW" cir 6144 cbs 198608 pir 
+12288 pbs 395216 color-mode color-blind priority user-cos 0 priority-policy 
+tag-in-package
+ traffic table ip index 80 name "FTTH-8M-NEW" cir 8192 cbs 264144 pir 16384 pbs 526288 color-mode color-blind priority user-cos 0 priority-policy tag-in-package
+ traffic table ip index 81 name "FTTB-VOICE-2M-NEW" cir 2048 cbs 67536 pir 4096 pbs 133072 color-mode color-blind priority user-cos 5 inner-priority 5 
+priority-policy tag-in-package
+ traffic table ip index 82 name "FTTB-IPTV-2M-NEW" cir 2048 cbs 67536 pir 4096  pbs 133072 color-mode color-blind priority user-cos 4 inner-priority 4 
+priority-policy tag-in-package
+ traffic table ip index 83 name "FTTB-VPN-2M-NEW" cir 2048 cbs 67536 pir 4096 
+pbs 133072 color-mode color-blind priority user-cos 3 inner-priority 3 
+priority-policy tag-in-package
+ traffic table ip index 84 name "FTTB-EPL-2M-NEW" cir 2048 cbs 67536 pir 4096 
+pbs 133072 color-mode color-blind priority user-cos 2 inner-priority 2 
+priority-policy tag-in-package
+ traffic table ip index 85 name "FTTB-WLAN-2M-NEW" cir 2048 cbs 67536 pir 4096  pbs 133072 color-mode color-blind priority user-cos 1 inner-priority 1 
+priority-policy tag-in-package
+ traffic table ip index 86 name "FTTB-PPPOE-2M-NEW" cir 2048 cbs 67536 pir 4096 pbs 133072 color-mode color-blind priority user-cos 0 priority-policy 
+tag-in-package
+ traffic table ip index 87 name "FTTB-VPN-4M-NEW" cir 4096 cbs 133072 pir 8192  pbs 264144 color-mode color-blind priority user-cos 3 inner-priority 3 
+priority-policy tag-in-package
+ traffic table ip index 88 name "FTTB-EPL-4M-NEW" cir 4096 cbs 133072 pir 8192  pbs 264144 color-mode color-blind priority user-cos 2 inner-priority 2 
+priority-policy tag-in-package
+ traffic table ip index 89 name "FTTB-WLAN-4M-NEW" cir 4096 cbs 133072 pir 8192 pbs 264144 color-mode color-blind priority user-cos 1 inner-priority 1 
+priority-policy tag-in-package
+ traffic table ip index 90 name "FTTB-PPPOE-4M-NEW" cir 4096 cbs 133072 pir 8192 pbs 264144 color-mode color-blind priority user-cos 0 priority-policy 
+tag-in-package
+ traffic table ip index 91 name "FTTB-VPN-8M-NEW" cir 8192 cbs 264144 pir 16384 pbs 526288 color-mode color-blind priority user-cos 3 inner-priority 3 
+priority-policy tag-in-package
+ traffic table ip index 92 name "FTTB-EPL-8M-NEW" cir 8192 cbs 264144 pir 16384 pbs 526288 color-mode color-blind priority user-cos 2 inner-priority 2 
+priority-policy tag-in-package
+ traffic table ip index 93 name "FTTB-WLAN-8M-NEW" cir 8192 cbs 264144 pir 16384 pbs 526288 color-mode color-blind priority user-cos 1 inner-priority 1 
+priority-policy tag-in-package
+ traffic table ip index 94 name "FTTB-PPPOE-8M-NEW" cir 8192 cbs 264144 pir 
+16384 pbs 526288 color-mode color-blind priority user-cos 0 priority-policy 
+tag-in-package
+ traffic table ip index 95 name "FTTB-VPN-10M-NEW" cir 10240 cbs 329680 pir 
+20480 pbs 657360 color-mode color-blind priority user-cos 3 inner-priority 3 
+priority-policy tag-in-package
+ traffic table ip index 96 name "FTTB-EPL-10M-NEW" cir 10240 cbs 329680 pir 
+20480 pbs 657360 color-mode color-blind priority user-cos 2 inner-priority 2 
+priority-policy tag-in-package
+ traffic table ip index 97 name "FTTB-WLAN-10M-NEW" cir 10240 cbs 329680 pir 
+20480 pbs 657360 color-mode color-blind priority user-cos 1 inner-priority 1 
+priority-policy tag-in-package
+ traffic table ip index 98 name "FTTB-PPPOE-10M-NEW" cir 10240 cbs 329680 pir 
+20480 pbs 657360 color-mode color-blind priority user-cos 0 priority-policy 
+tag-in-package
+ traffic table ip index 99 name "FTTB-VPN-12M-NEW" cir 12288 cbs 395216 pir 
+24576 pbs 788432 color-mode color-blind priority user-cos 3 inner-priority 3 
+priority-policy tag-in-package
+ traffic table ip index 100 name "FTTB-EPL-12M-NEW" cir 12288 cbs 395216 pir 
+24576 pbs 788432 color-mode color-blind priority user-cos 2 inner-priority 2 
+priority-policy tag-in-package
+ traffic table ip index 101 name "FTTB-WLAN-12M-NEW" cir 12288 cbs 395216 pir 
+24576 pbs 788432 color-mode color-blind priority user-cos 1 inner-priority 1 
+priority-policy tag-in-package
+ traffic table ip index 102 name "FTTB-PPPOE-12M-NEW" cir 12288 cbs 395216 pir  24576 pbs 788432 color-mode color-blind priority user-cos 0 priority-policy 
+tag-in-package
+ traffic table ip index 103 name "FTTB-VPN-14M-NEW" cir 14336 cbs 460752 pir 
+28672 pbs 919504 color-mode color-blind priority user-cos 3 inner-priority 3 
+priority-policy tag-in-package
+ traffic table ip index 104 name "FTTB-EPL-14M-NEW" cir 14336 cbs 460752 pir 
+28672 pbs 919504 color-mode color-blind priority user-cos 2 inner-priority 2 
+priority-policy tag-in-package
+ traffic table ip index 105 name "FTTB-WLAN-14M-NEW" cir 14336 cbs 460752 pir 
+28672 pbs 919504 color-mode color-blind priority user-cos 1 inner-priority 1 
+priority-policy tag-in-package
+ traffic table ip index 106 name "FTTB-PPPOE-14M-NEW" cir 14336 cbs 460752 pir  28672 pbs 919504 color-mode color-blind priority user-cos 0 priority-policy 
+tag-in-package
+ traffic table ip index 107 name "FTTB-VPN-16M-NEW" cir 16384 cbs 526288 pir 
+32768 pbs 1050576 color-mode color-blind priority user-cos 3 inner-priority 3 
+priority-policy tag-in-package
+ traffic table ip index 108 name "FTTB-EPL-16M-NEW" cir 16384 cbs 526288 pir 
+32768 pbs 1050576 color-mode color-blind priority user-cos 2 inner-priority 2 
+priority-policy tag-in-package
+ traffic table ip index 109 name "FTTB-WLAN-16M-NEW" cir 16384 cbs 526288 pir 
+32768 pbs 1050576 color-mode color-blind priority user-cos 1 inner-priority 1 
+priority-policy tag-in-package
+ traffic table ip index 110 name "FTTB-PPPOE-16M-NEW" cir 16384 cbs 526288 pir  32768 pbs 1050576 color-mode color-blind priority user-cos 0 priority-policy 
+tag-in-package
+ traffic table ip index 111 name "FTTB-VPN-18M-NEW" cir 18432 cbs 591824 pir 
+36864 pbs 1181648 color-mode color-blind priority user-cos 3 inner-priority 3 
+priority-policy tag-in-package
+ traffic table ip index 112 name "FTTB-EPL-18M-NEW" cir 18432 cbs 591824 pir 
+36864 pbs 1181648 color-mode color-blind priority user-cos 2 inner-priority 2 
+priority-policy tag-in-package
+ traffic table ip index 113 name "FTTB-WLAN-18M-NEW" cir 18432 cbs 591824 pir 
+36864 pbs 1181648 color-mode color-blind priority user-cos 1 inner-priority 1 
+priority-policy tag-in-package
+ traffic table ip index 114 name "FTTB-VPN-20M-NEW" cir 20480 cbs 657360 pir 
+40960 pbs 1312720 color-mode color-blind priority user-cos 3 inner-priority 3 
+priority-policy tag-in-package
+ traffic table ip index 115 name "FTTB-EPL-20M-NEW" cir 20480 cbs 657360 pir 
+40960 pbs 1312720 color-mode color-blind priority user-cos 2 inner-priority 2 
+priority-policy tag-in-package
+ traffic table ip index 116 name "FTTB-WLAN-20M-NEW" cir 20480 cbs 657360 pir 
+40960 pbs 1312720 color-mode color-blind priority user-cos 1 inner-priority 1 
+priority-policy tag-in-package
+ traffic table ip index 117 name "FTTB-PPPOE-20M-NEW" cir 20480 cbs 657360 pir  40960 pbs 1312720 color-mode color-blind priority user-cos 0 priority-policy 
+tag-in-package
+ traffic table ip index 118 name "FTTB-VPN-30M-NEW" cir 30720 cbs 985040 pir 
+61440 pbs 1968080 color-mode color-blind priority user-cos 3 inner-priority 3 
+priority-policy tag-in-package
+ traffic table ip index 119 name "FTTB-EPL-30M-NEW" cir 30720 cbs 985040 pir 
+61440 pbs 1968080 color-mode color-blind priority user-cos 2 inner-priority 2 
+priority-policy tag-in-package
+ traffic table ip index 120 name "FTTB-WLAN-30M-NEW" cir 30720 cbs 985040 pir 
+61440 pbs 1968080 color-mode color-blind priority user-cos 1 inner-priority 1 
+priority-policy tag-in-package
+ traffic table ip index 121 name "FTTB-PPPOE-30M-NEW" cir 30720 cbs 985040 pir  61440 pbs 1968080 color-mode color-blind priority user-cos 0 priority-policy 
+tag-in-package
+ traffic table ip index 122 name "FTTB-VPN-40M-NEW" cir 40960 cbs 1312720 pir 
+81920 pbs 2623440 color-mode color-blind priority user-cos 3 inner-priority 3 
+priority-policy tag-in-package
+ traffic table ip index 123 name "FTTB-EPL-40M-NEW" cir 40960 cbs 1312720 pir 
+81920 pbs 2623440 color-mode color-blind priority user-cos 2 inner-priority 2 
+priority-policy tag-in-package
+ traffic table ip index 124 name "FTTB-WLAN-40M-NEW" cir 40960 cbs 1312720 pir  81920 pbs 2623440 color-mode color-blind priority user-cos 1 inner-priority 1 
+priority-policy tag-in-package
+ traffic table ip index 125 name "FTTB-PPPOE-40M-NEW" cir 40960 cbs 1312720 pir 81920 pbs 2623440 color-mode color-blind priority user-cos 0 priority-policy 
+tag-in-package
+ traffic table ip index 126 name "FTTB-VPN-50M-NEW" cir 51200 cbs 1640400 pir 
+102400 pbs 3278800 color-mode color-blind priority user-cos 3 inner-priority 3  priority-policy tag-in-package
+ traffic table ip index 127 name "FTTB-EPL-50M-NEW" cir 51200 cbs 1640400 pir 
+102400 pbs 3278800 color-mode color-blind priority user-cos 2 inner-priority 2  priority-policy tag-in-package
+ traffic table ip index 128 name "FTTB-WLAN-50M-NEW" cir 51200 cbs 1640400 pir  102400 pbs 3278800 color-mode color-blind priority user-cos 1 inner-priority 1  priority-policy tag-in-package
+ traffic table ip index 129 name "FTTB-PPPOE-50M-NEW" cir 51200 cbs 1640400 pir 102400 pbs 3278800 color-mode color-blind priority user-cos 0 priority-policy 
+tag-in-package
+ traffic table ip index 130 name "FTTB-VPN-100M-NEW" cir 102400 cbs 3278800 pir 204800 pbs 6555600 color-mode color-blind priority user-cos 3 inner-priority 3  priority-policy tag-in-package
+ traffic table ip index 131 name "FTTB-EPL-100M-NEW" cir 102400 cbs 3278800 pir 204800 pbs 6555600 color-mode color-blind priority user-cos 2 inner-priority 2  priority-policy tag-in-package
+ traffic table ip index 132 name "FTTB-WLAN-100M-NEW" cir 102400 cbs 3278800 pir 204800 pbs 6555600 color-mode color-blind priority user-cos 1 inner-priority 1 priority-policy tag-in-package
+ traffic table ip index 133 name "FTTB-PPPOE-100M-NEW" cir 102400 cbs 3278800 
+pir 204800 pbs 6555600 color-mode color-blind priority user-cos 0 
+priority-policy tag-in-package
+ traffic table ip index 134 name "FTTB-MANAGE-2M-NEW" cir 2048 cbs 67536 pir 
+4096 pbs 133072 color-mode color-blind priority user-cos 6 inner-priority 6 
+priority-policy tag-in-package
+ traffic table ip index 135 name "FTTB-WLAN-5M-NEW" cir 5120 cbs 165840 pir 
+10240 pbs 329680 color-mode color-blind priority 0 priority-policy 
+tag-in-package
+ traffic table ip index 136 name "FTTB-WLAN-60M-NEW" cir 61440 cbs 102400 pir 
+81920 pbs 204800 color-mode color-blind priority 0 priority-policy 
+tag-in-package
+ traffic table ip index 137 name "FTTB-Voice" cir off color-mode color-blind 
+priority user-cos 5 priority-policy tag-in-package
+ traffic table ip index 138 name "FTTB-Manager" cir off color-mode color-blind  priority user-cos 6 priority-policy tag-in-package
+ traffic table ip index 139 name "FTTB-MANAGER-2M-NEW" cir 2048 cbs 67536 pir 
+4096 pbs 133072 color-mode color-blind priority user-cos 6 inner-priority 6 
+priority-policy tag-in-package
+ traffic table ip index 140 name "DEFAULT_SCOS0_CCOS0" cir off color-mode 
+color-blind priority 0 priority-policy local-setting
+ traffic table ip index 141 name "DOWN_30M_100M_OTT" cir 30720 cbs 985040 pir 
+102400 pbs 3278800 color-mode color-blind priority 0 priority-policy 
+local-setting
+ traffic table ip index 142 name "DEFAULT_SCOS1_CCOS1" cir off color-mode 
+color-blind priority 1 inner-priority 1 priority-policy local-setting
+ traffic table ip index 143 name "DEFAULT_SCOS2_CCOS2" cir off color-mode 
+color-blind priority 2 inner-priority 2 priority-policy local-setting
+ traffic table ip index 144 name "DEFAULT_SCOS3_CCOS3" cir off color-mode 
+color-blind priority 3 inner-priority 3 priority-policy local-setting
+ traffic table ip index 145 name "DEFAULT_SCOS4_CCOS4" cir off color-mode 
+color-blind priority 4 inner-priority 4 priority-policy local-setting
+ traffic table ip index 146 name "DEFAULT_SCOS5_CCOS5" cir off color-mode 
+color-blind priority 5 inner-priority 5 priority-policy local-setting
+ traffic table ip index 147 name "DEFAULT_SCOS6_CCOS6" cir off color-mode 
+color-blind priority 6 inner-priority 6 priority-policy local-setting
+ traffic table ip index 148 name "DEFAULT_SCOS7_CCOS7" cir off color-mode 
+color-blind priority 7 inner-priority 7 priority-policy local-setting
+ traffic table ip index 149 name "FTTB-WLAN-1000M-NEW" cir 1024000 cbs 2024000  pir 1024000 pbs 2024000 color-mode color-blind priority 1 priority-policy 
+tag-in-package
+ traffic table ip index 888 name "tcq" cir 1024 cbs 1024 pir 1024 pbs 10240 
+color-mode color-blind priority user-cos 0 priority-policy local-setting
+ dba-profile add profile-id 10 profile-name "dba-profile_10" type2 assure 40960
+ dba-profile add profile-id 11 profile-name "Manager" type3 assure 5120 max 
+10240
+ dba-profile add profile-id 12 profile-name "PPPOE" type3 assure 40960 max 51200
+ dba-profile add profile-id 13 profile-name "HG850-jiake" type4 max 10240
+ dba-profile add profile-id 14 profile-name "HG850-voice" type3 assure 2048 max 2048
+ dba-profile add profile-id 15 profile-name "PPPOE-0/2/5/1" type3 assure 8192 
+max 16384
+ dba-profile add profile-id 16 profile-name "VOICE-0/2/5/1" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 17 profile-name "EPL-0/1/1/17" type3 assure 102400  max 204800
+ dba-profile add profile-id 18 profile-name "VOICE-0/1/1/17" type3 assure 2048  max 2048
+ dba-profile add profile-id 19 profile-name "PPPOE-0/2/5/4" type3 assure 8192 
+max 16384
+ dba-profile add profile-id 20 profile-name "dba-profile_20" type2 assure 10240
+ dba-profile add profile-id 21 profile-name "VOICE-0/2/4/1" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 22 profile-name "PPPOE-0/2/1/3" type3 assure 8192 
+max 16384
+ dba-profile add profile-id 23 profile-name "VOICE-0/2/1/3" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 24 profile-name "EPL-0/2/0/0" type3 assure 8192 max 16384
+ dba-profile add profile-id 25 profile-name "VOICE-0/2/0/0" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 26 profile-name "PPPOE-0/3/7/0" type3 assure 8192 
+max 16384
+ dba-profile add profile-id 27 profile-name "VOICE-0/3/7/0" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 28 profile-name "PPPOE-0/3/7/1" type3 assure 8192 
+max 16384
+ dba-profile add profile-id 29 profile-name "VOICE-0/3/7/1" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 30 profile-name "PPPOE-0/2/3/0" type3 assure 8192 
+max 16384
+ dba-profile add profile-id 31 profile-name "VOICE-0/2/3/0" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 32 profile-name "EPL-0/2/0/2" type3 assure 8192 max 16384
+ dba-profile add profile-id 33 profile-name "VOICE-0/2/0/2" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 34 profile-name "EPL-0/1/1/10" type3 assure 8192 max 16384
+ dba-profile add profile-id 35 profile-name "VOICE-0/1/1/10" type3 assure 2048  max 2048
+ dba-profile add profile-id 36 profile-name "PPPOE-0/3/0/0" type3 assure 8192 
+max 16384
+ dba-profile add profile-id 37 profile-name "VOICE-0/3/0/0" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 38 profile-name "PPPOE-0/3/7/2" type3 assure 8192 
+max 16384
+ dba-profile add profile-id 39 profile-name "VOICE-0/3/7/2" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 40 profile-name "PPPOE-0/3/7/3" type3 assure 8192 
+max 16384
+ dba-profile add profile-id 41 profile-name "VOICE-0/3/7/3" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 42 profile-name "PPPOE-0/3/6/0" type3 assure 8192 
+max 16384
+ dba-profile add profile-id 43 profile-name "VOICE-0/3/6/0" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 44 profile-name "PPPOE-0/3/3/0" type3 assure 8192 
+max 16384
+ dba-profile add profile-id 45 profile-name "VOICE-0/3/3/0" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 46 profile-name "PPPOE-0/3/3/1" type3 assure 8192 
+max 16384
+ dba-profile add profile-id 47 profile-name "VOICE-0/3/3/1" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 48 profile-name "PPPOE-0/3/3/2" type3 assure 8192 
+max 16384
+ dba-profile add profile-id 49 profile-name "VOICE-0/3/3/2" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 50 profile-name "PPPOE-0/3/3/3" type3 assure 8192 
+max 16384
+ dba-profile add profile-id 51 profile-name "VOICE-0/3/3/3" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 52 profile-name "PPPOE-0/2/4/" type3 assure 8192 max 16384
+ dba-profile add profile-id 53 profile-name "VOICE-0/2/4/" type3 assure 2048 max 2048
+ dba-profile add profile-id 54 profile-name "PPPOE-0/2/5/2" type3 assure 8192 
+max 16384
+ dba-profile add profile-id 55 profile-name "VOICE-0/2/5/2" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 56 profile-name "PPPOE-0/2/4/0" type3 assure 8192 
+max 16384
+ dba-profile add profile-id 57 profile-name "VOICE-0/2/4/0" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 58 profile-name "PPPOE-0/3/3/4" type3 assure 8192 
+max 16384
+ dba-profile add profile-id 59 profile-name "VOICE-0/3/3/4" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 60 profile-name "PPPOE-0/3/3/5" type3 assure 8192 
+max 16384
+ dba-profile add profile-id 61 profile-name "VOICE-0/3/3/5" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 62 profile-name "PPPOE-0/3/3/6" type3 assure 8192 
+max 16384
+ dba-profile add profile-id 63 profile-name "VOICE-0/3/3/6" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 64 profile-name "PPPOE-0/3/7/4" type3 assure 8192 
+max 16384
+ dba-profile add profile-id 65 profile-name "VOICE-0/3/7/4" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 66 profile-name "PPPOE-0/3/3/7" type3 assure 8192 
+max 16384
+ dba-profile add profile-id 67 profile-name "VOICE-0/3/3/7" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 68 profile-name "PPPOE-0/3/3/8" type3 assure 8192 
+max 16384
+ dba-profile add profile-id 69 profile-name "VOICE-0/3/3/8" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 70 profile-name "PPPOE-0/3/3/9" type3 assure 8192 
+max 16384
+ dba-profile add profile-id 71 profile-name "VOICE-0/3/3/9" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 72 profile-name "PPPOE-0/2/2/0" type3 assure 8192 
+max 16384
+ dba-profile add profile-id 73 profile-name "VOICE-0/2/2/0" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 74 profile-name "PPPOE-0/3/3/33" type3 assure 8192  max 16384
+ dba-profile add profile-id 75 profile-name "VOICE-0/3/3/33" type3 assure 2048  max 2048
+ dba-profile add profile-id 76 profile-name "Wlan-10M" type3 assure 10240 max 
+20480
+ dba-profile add profile-id 77 profile-name "PPPOE-0/3/3/11" type3 assure 8192  max 16384
+ dba-profile add profile-id 78 profile-name "VOICE-0/3/3/11" type3 assure 2048  max 2048
+ dba-profile add profile-id 79 profile-name "PPPOE-0/3/3/12" type3 assure 8192  max 16384
+ dba-profile add profile-id 80 profile-name "VOICE-0/3/3/12" type3 assure 2048  max 2048
+ dba-profile add profile-id 81 profile-name "PPPOE-0/3/3/13" type3 assure 8192  max 16384
+ dba-profile add profile-id 82 profile-name "VOICE-0/3/3/13" type3 assure 2048  max 2048
+ dba-profile add profile-id 83 profile-name "PPPOE-0/3/3/14" type3 assure 8192  max 16384
+ dba-profile add profile-id 84 profile-name "VOICE-0/3/3/14" type3 assure 2048  max 2048
+ dba-profile add profile-id 85 profile-name "PPPOE-0/3/3/15" type3 assure 8192  max 16384
+ dba-profile add profile-id 86 profile-name "VOICE-0/3/3/15" type3 assure 2048  max 2048
+ dba-profile add profile-id 87 profile-name "FTTB-MANAGER" type3 assure 2048 max 2048
+ dba-profile add profile-id 88 profile-name "FTTB-ALL" type3 assure 51200 max 
+102400
+ dba-profile add profile-id 89 profile-name "FTTH-ALL" type3 assure 4096 max 
+32768
+ dba-profile add profile-id 90 profile-name "PPPOE-0/3/3/16" type3 assure 8192  max 16384
+ dba-profile add profile-id 91 profile-name "VOICE-0/3/3/16" type3 assure 2048  max 2048
+ dba-profile add profile-id 92 profile-name "VOICE-0/2/5/4" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 93 profile-name "PPPOE-0/3/5/0" type3 assure 8192 
+max 16384
+ dba-profile add profile-id 94 profile-name "PPPOE-0/3/3/17" type3 assure 8192  max 16384
+ dba-profile add profile-id 95 profile-name "VOICE-0/3/3/17" type3 assure 2048  max 2048
+ dba-profile add profile-id 96 profile-name "dba-profile_96" type3 assure 1024  max 10240
+ dba-profile add profile-id 97 profile-name "HG8240-test" type3 assure 1024 max 10240
+ dba-profile add profile-id 98 profile-name "VOICE-0/3/5/0" type3 assure 2048 
+max 2048
+ dba-profile add profile-id 99 profile-name "PPPOE-0/2/0/3" type3 assure 8192 
+max 16384
+ dba-profile add profile-id 100 profile-name "VOICE-0/2/0/3" type3 assure 2048  max 2048
+ dba-profile add profile-id 101 profile-name "FTTH-ALL-NEW" type3 assure 16384  max 32768
+ dba-profile add profile-id 102 profile-name "PPPOE-0/3/0/1" type3 assure 8192  max 16384
+ dba-profile add profile-id 103 profile-name "VOICE-0/3/0/1" type3 assure 2048  max 2048
+ dba-profile add profile-id 104 profile-name "PPPOE-0/2/4/1" type3 assure 8192  max 16384
+ dba-profile add profile-id 105 profile-name "PPPOE-0/2/5/5" type3 assure 8192  max 16384
+ dba-profile add profile-id 106 profile-name "VOICE-0/2/5/5" type3 assure 2048  max 2048
+ dba-profile add profile-id 107 profile-name "PPPOE-0/2/4/2" type3 assure 8192  max 16384
+ dba-profile add profile-id 108 profile-name "VOICE-0/2/4/2" type3 assure 2048  max 2048
+ dba-profile add profile-id 109 profile-name "PPPOE-0/2/5/6" type3 assure 8192  max 16384
+ dba-profile add profile-id 110 profile-name "VOICE-0/2/5/6" type3 assure 2048  max 2048
+ dba-profile add profile-id 111 profile-name "PPPOE-0/7/6/11" type3 assure 8192 max 16384
+ dba-profile add profile-id 112 profile-name "VOICE-0/7/6/11" type3 assure 2048 max 2048
+ dba-profile add profile-id 113 profile-name "PPPOE-0/3/3/18" type3 assure 8192 max 16384
+ dba-profile add profile-id 114 profile-name "VOICE-0/3/3/18" type3 assure 2048 max 2048
+ dba-profile add profile-id 115 profile-name "PPPOE-0/3/3/19" type3 assure 8192 max 16384
+ dba-profile add profile-id 116 profile-name "VOICE-0/3/3/19" type3 assure 2048 max 2048
+ dba-profile add profile-id 117 profile-name "PPPOE-0/3/3/20" type3 assure 8192 max 16384
+ dba-profile add profile-id 118 profile-name "VOICE-0/3/3/20" type3 assure 2048 max 2048
+ dba-profile add profile-id 119 profile-name "PPPOE-0/3/3/21" type3 assure 8192 max 16384
+ dba-profile add profile-id 120 profile-name "VOICE-0/3/3/21" type3 assure 2048 max 2048
+ dba-profile add profile-id 121 profile-name "FTTB-ALL-NEW" type3 assure 51200  max 102400
+ dba-profile add profile-id 122 profile-name "PPPOE-0/3/6/1" type3 assure 8192  max 16384
+ dba-profile add profile-id 123 profile-name "VOICE-0/3/6/1" type3 assure 2048  max 2048
+ dba-profile add profile-id 124 profile-name "PPPOE-0/3/3/22" type3 assure 8192 max 16384
+ dba-profile add profile-id 125 profile-name "VOICE-0/3/3/22" type3 assure 2048 max 2048
+ dba-profile add profile-id 126 profile-name "PPPOE-0/2/5/7" type3 assure 8192  max 16384
+ dba-profile add profile-id 127 profile-name "VOICE-0/2/5/7" type3 assure 2048  max 2048
+ dba-profile add profile-id 128 profile-name "PPPOE-0/2/4/3" type3 assure 8192  max 16384
+ dba-profile add profile-id 129 profile-name "VOICE-0/2/4/3" type3 assure 2048  max 2048
+ dba-profile add profile-id 130 profile-name "PPPOE-0/2/4/4" type3 assure 8192  max 16384
+ dba-profile add profile-id 131 profile-name "VOICE-0/2/4/4" type3 assure 2048  max 2048
+ dba-profile add profile-id 132 profile-name "PPPOE-0/3/3/24" type3 assure 8192 max 16384
+ dba-profile add profile-id 133 profile-name "VOICE-0/3/3/24" type3 assure 2048 max 2048
+ dba-profile add profile-id 134 profile-name "FTTH-WLAN" type3 assure 51200 max 102400
+ dba-profile add profile-id 135 profile-name "FTTH-WLAN-MANAGE" type3 assure 
+1024 max 2048
+ dba-profile add profile-id 136 profile-name "PPPOE-0/2/5/8" type3 assure 8192  max 16384
+ dba-profile add profile-id 137 profile-name "VOICE-0/2/5/8" type3 assure 2048  max 2048
+ dba-profile add profile-id 138 profile-name "PPPOE-0/2/4/5" type3 assure 8192  max 16384
+ dba-profile add profile-id 139 profile-name "VOICE-0/2/4/5" type3 assure 2048  max 2048
+ dba-profile add profile-id 140 profile-name "PPPOE-0/2/2/1" type3 assure 8192  max 16384
+ dba-profile add profile-id 141 profile-name "VOICE-0/2/2/1" type3 assure 2048  max 2048
+ dba-profile add profile-id 142 profile-name "PPPOE-0/3/3/25" type3 assure 8192 max 16384
+ dba-profile add profile-id 143 profile-name "VOICE-0/3/3/25" type3 assure 2048 max 2048
+ dba-profile add profile-id 144 profile-name "PPPOE-0/2/4/6" type3 assure 8192  max 16384
+ dba-profile add profile-id 145 profile-name "VOICE-0/2/4/6" type3 assure 2048  max 2048
+ dba-profile add profile-id 146 profile-name "PPPOE-0/2/4/7" type3 assure 8192  max 16384
+ dba-profile add profile-id 147 profile-name "VOICE-0/2/4/7" type3 assure 2048  max 2048
+ dba-profile add profile-id 148 profile-name "PPPOE-0/3/3/26" type3 assure 8192 max 16384
+ dba-profile add profile-id 149 profile-name "VOICE-0/3/3/26" type3 assure 2048 max 2048
+ dba-profile add profile-id 150 profile-name "PPPOE-0/3/5/1" type3 assure 8192  max 16384
+ dba-profile add profile-id 151 profile-name "VOICE-0/3/5/1" type3 assure 2048  max 2048
+ dba-profile add profile-id 152 profile-name "PPPOE-0/2/3/2" type3 assure 8192  max 16384
+ dba-profile add profile-id 153 profile-name "VOICE-0/2/3/2" type3 assure 2048  max 2048
+ dba-profile add profile-id 154 profile-name "PPPOE-0/3/3/27" type3 assure 8192 max 16384
+ dba-profile add profile-id 155 profile-name "VOICE-0/3/3/27" type3 assure 2048 max 2048
+ dba-profile add profile-id 156 profile-name "PPPOE-0/3/3/28" type3 assure 8192 max 16384
+ dba-profile add profile-id 157 profile-name "VOICE-0/3/3/28" type3 assure 2048 max 2048
+ dba-profile add profile-id 158 profile-name "PPPOE-0/2/4/8" type3 assure 8192  max 16384
+ dba-profile add profile-id 159 profile-name "VOICE-0/2/4/8" type3 assure 2048  max 2048
+ dba-profile add profile-id 160 profile-name "PPPOE-0/2/4/9" type3 assure 8192  max 16384
+ dba-profile add profile-id 161 profile-name "VOICE-0/2/4/9" type3 assure 2048  max 2048
+ dba-profile add profile-id 162 profile-name "PPPOE-0/3/3/29" type3 assure 8192 max 16384
+ dba-profile add profile-id 163 profile-name "VOICE-0/3/3/29" type3 assure 2048 max 2048
+ dba-profile add profile-id 164 profile-name "PPPOE-0/2/4/10" type3 assure 8192 max 16384
+ dba-profile add profile-id 165 profile-name "VOICE-0/2/4/10" type3 assure 2048 max 2048
+ dba-profile add profile-id 166 profile-name "PPPOE-0/2/4/11" type3 assure 8192 max 16384
+ dba-profile add profile-id 167 profile-name "VOICE-0/2/4/11" type3 assure 2048 max 2048
+ dba-profile add profile-id 168 profile-name "PPPOE-0/3/6/2" type3 assure 8192  max 16384
+ dba-profile add profile-id 169 profile-name "VOICE-0/3/6/2" type3 assure 2048  max 2048
+ dba-profile add profile-id 170 profile-name "PPPOE-0/2/2/2" type3 assure 8192  max 16384
+ dba-profile add profile-id 171 profile-name "VOICE-0/2/2/2" type3 assure 2048  max 2048
+ dba-profile add profile-id 172 profile-name "PPPOE-0/2/4/12" type3 assure 8192 max 16384
+ dba-profile add profile-id 173 profile-name "VOICE-0/2/4/12" type3 assure 2048 max 2048
+ dba-profile add profile-id 174 profile-name "PPPOE-0/3/5/2" type3 assure 8192  max 16384
+ dba-profile add profile-id 175 profile-name "VOICE-0/3/5/2" type3 assure 2048  max 2048
+ dba-profile add profile-id 176 profile-name "PPPOE-0/3/7/5" type3 assure 8192  max 16384
+ dba-profile add profile-id 177 profile-name "VOICE-0/3/7/5" type3 assure 2048  max 2048
+ dba-profile add profile-id 178 profile-name "PPPOE-0/2/4/13" type3 assure 8192 max 16384
+ dba-profile add profile-id 179 profile-name "VOICE-0/2/4/13" type3 assure 2048 max 2048
+ dba-profile add profile-id 180 profile-name "PPPOE-0/3/3/30" type3 assure 8192 max 16384
+ dba-profile add profile-id 181 profile-name "VOICE-0/3/3/30" type3 assure 2048 max 2048
+ dba-profile add profile-id 182 profile-name "PPPOE-0/3/3/31" type3 assure 8192 max 16384
+ dba-profile add profile-id 183 profile-name "VOICE-0/3/3/31" type3 assure 2048 max 2048
+ dba-profile add profile-id 184 profile-name "PPPOE-0/3/5/3" type3 assure 8192  max 16384
+ dba-profile add profile-id 185 profile-name "VOICE-0/3/5/3" type3 assure 2048  max 2048
+ dba-profile add profile-id 186 profile-name "PPPOE-0/3/3/32" type3 assure 8192 max 16384
+ dba-profile add profile-id 187 profile-name "VOICE-0/3/3/32" type3 assure 2048 max 2048
+ dba-profile add profile-id 188 profile-name "PPPOE-0/2/1/1" type3 assure 8192  max 16384
+ dba-profile add profile-id 189 profile-name "VOICE-0/2/1/1" type3 assure 2048  max 2048
+ dba-profile add profile-id 190 profile-name "PPPOE-0/3/6/3" type3 assure 8192  max 16384
+ dba-profile add profile-id 191 profile-name "VOICE-0/3/6/3" type3 assure 2048  max 2048
+ dba-profile add profile-id 192 profile-name "PPPOE-0/2/5/9" type3 assure 8192  max 16384
+ dba-profile add profile-id 193 profile-name "VOICE-0/2/5/9" type3 assure 2048  max 2048
+ dba-profile add profile-id 194 profile-name "PPPOE-0/3/5/4" type3 assure 8192  max 16384
+ dba-profile add profile-id 195 profile-name "VOICE-0/3/5/4" type3 assure 2048  max 2048
+ dba-profile add profile-id 196 profile-name "PPPOE-0/3/2/0" type3 assure 8192  max 16384
+ dba-profile add profile-id 197 profile-name "VOICE-0/3/2/0" type3 assure 2048  max 2048
+ dba-profile add profile-id 198 profile-name "PPPOE-0/3/4/0" type3 assure 8192  max 16384
+ dba-profile add profile-id 199 profile-name "VOICE-0/3/4/0" type3 assure 2048  max 2048
+ dba-profile add profile-id 200 profile-name "PPPOE-0/3/2/1" type3 assure 8192  max 16384
+ dba-profile add profile-id 201 profile-name "VOICE-0/3/2/1" type3 assure 2048  max 2048
+ dba-profile add profile-id 202 profile-name "PPPOE-0/3/2/3" type3 assure 8192  max 16384
+ dba-profile add profile-id 203 profile-name "VOICE-0/3/2/3" type3 assure 2048  max 2048
+ dba-profile add profile-id 204 profile-name "PPPOE-0/3/2/4" type3 assure 8192  max 16384
+ dba-profile add profile-id 205 profile-name "VOICE-0/3/2/4" type3 assure 2048  max 2048
+ dba-profile add profile-id 206 profile-name "PPPOE-0/2/1/2" type3 assure 8192  max 16384
+ dba-profile add profile-id 207 profile-name "VOICE-0/2/1/2" type3 assure 2048  max 2048
+ dba-profile add profile-id 208 profile-name "PPPOE-0/3/5/5" type3 assure 8192  max 16384
+ dba-profile add profile-id 209 profile-name "VOICE-0/3/5/5" type3 assure 2048  max 2048
+ dba-profile add profile-id 210 profile-name "PPPOE-0/4/4/0" type3 assure 8192  max 16384
+ dba-profile add profile-id 211 profile-name "VOICE-0/4/4/0" type3 assure 2048  max 2048
+ dba-profile add profile-id 212 profile-name "PPPOE-0/4/5/0" type3 assure 8192  max 16384
+ dba-profile add profile-id 213 profile-name "VOICE-0/4/5/0" type3 assure 2048  max 2048
+ dba-profile add profile-id 214 profile-name "FTTH-1M-NEW" type3 assure 1024 max 2048
+ dba-profile add profile-id 215 profile-name "FTTH-2M-NEW" type3 assure 1024 max 2048
+ dba-profile add profile-id 216 profile-name "FTTH-4M-NEW" type3 assure 2048 max 4096
+ dba-profile add profile-id 217 profile-name "FTTH-6M-NEW" type3 assure 3072 max 6144
+ dba-profile add profile-id 218 profile-name "FTTH-8M-NEW" type3 assure 4096 max 8192
+ dba-profile add profile-id 219 profile-name "FTTH-10M-NEW" type3 assure 5120 
+max 10240
+ dba-profile add profile-id 220 profile-name "FTTH-12M-NEW" type3 assure 6144 
+max 12288
+ dba-profile add profile-id 221 profile-name "FTTH-14M-NEW" type3 assure 7168 
+max 14336
+ dba-profile add profile-id 222 profile-name "FTTH-16M-NEW" type3 assure 8192 
+max 16384
+ dba-profile add profile-id 223 profile-name "FTTH-18M-NEW" type3 assure 9216 
+max 18432
+ dba-profile add profile-id 224 profile-name "FTTH-20M-NEW" type3 assure 10240  max 20480
+ dba-profile add profile-id 225 profile-name "FTTH-test" type3 assure 4096 max  10240
+ dba-profile add profile-id 226 profile-name "hwtest" type3 assure 20480 max 
+30912
+ dba-profile add profile-id 227 profile-name "2M-Assure" type2 assure 2048
+ dba-profile add profile-id 228 profile-name "10M-Assure" type2 assure 10240
+ dba-profile add profile-id 229 profile-name "FTTH-30M-NEW" type3 assure 15360  max 30720
+ dba-profile add profile-id 230 profile-name "1M_FIXED_DBA" type1 fix 1024 
+bandwidth_compensate no
+ dba-profile add profile-id 231 profile-name "36M-1024M_DBA" type3 assure 36864 max 1048576
+ dba-profile add profile-id 232 profile-name "4M_FIXED_DBA" type1 fix 4096 
+bandwidth_compensate no
+ dba-profile add profile-id 233 profile-name "6M-100M_DBA" type3 assure 6144 max 10240
+ dba-profile add profile-id 234 profile-name "FTTH-40M-NEW" type3 assure 20480  max 40960
+ dba-profile add profile-id 235 profile-name "FTTB-OTHER-10M" type3 assure 5120 max 10240
+ dba-profile add profile-id 236 profile-name "10M-1024M_DBA" type3 assure 10240 max 1048576
+ dba-profile add profile-id 237 profile-name "9M-1024M_DBA" type3 assure 9216 
+max 1048576
+ dba-profile add profile-id 238 profile-name "13M-1024M_DBA" type3 assure 13312 max 1048576
+ dba-profile add profile-id 239 profile-name "FTTH-50M-NEW" type3 assure 25600  max 51200
+ dba-profile add profile-id 240 profile-name "22M-1024M_DBA" type3 assure 22528 max 1048576
+ dba-profile add profile-id 241 profile-name "30M-1024M_DBA" type3 assure 30720 max 1048576
+ dba-profile add profile-id 242 profile-name "34M-1024M_DBA" type3 assure 34816 max 1048576
+ dba-profile add profile-id 243 profile-name "1M-1024M_DBA" type3 assure 1024 
+max 1048576
+ dba-profile add profile-id 244 profile-name "FTTH-60M-NEW" type3 assure 30720  max 61440
+ dba-profile add profile-id 245 profile-name "21M-1024M_DBA" type3 assure 21504 max 1048576
+ dba-profile add profile-id 246 profile-name "25M-1024M_DBA" type3 assure 25600 max 1048576
+ dba-profile add profile-id 247 profile-name "14M-1024M_DBA" type3 assure 14336 max 1048576
+ dba-profile add profile-id 248 profile-name "26M-1024M_DBA" type3 assure 24576 max 1048576
+ dba-profile add profile-id 249 profile-name "FTTH-70M-NEW" type3 assure 35840  max 71680
+ dba-profile add profile-id 250 profile-name "6M-100M-DBA" type3 assure 6144 max 102400
+ dba-profile add profile-id 251 profile-name "6M-1024M_DBA" type3 assure 6144 
+max 1048576
+ dba-profile add profile-id 252 profile-name "17M-100M_DBA" type3 assure 17408  max 102400
+ dba-profile add profile-id 253 profile-name "14M_250M_DBA" type3 assure 15040  max 256000
+ dba-profile add profile-id 254 profile-name "FTTH-80M-NEW" type3 assure 40960  max 81920
+ dba-profile add profile-id 255 profile-name "2M_FIXED_DBA" type1 fix 2048 
+bandwidth_compensate no
+ dba-profile add profile-id 256 profile-name "36M-100M_DBA" type3 assure 36864  max 102400
+ dba-profile add profile-id 257 profile-name "10M-60M_DBA" type3 assure 10240 
+max 61440
+ dba-profile add profile-id 258 profile-name "14M_250M_DBA_NEW" type3 assure 
+14080 max 256000
+ dba-profile add profile-id 259 profile-name "FTTH-90M-NEW" type3 assure 46080  max 92160
+ dba-profile add profile-id 260 profile-name "36M_250M_DBA" type3 assure 36864  max 256000
+ dba-profile add profile-id 264 profile-name "FTTH-100M-NEW" type3 assure 51200 max 102400
+ dba-profile add profile-id 265 profile-name "EPL-0/1/1/23" type3 assure 20480  max 40960
+ dba-profile add profile-id 266 profile-name "VOICE-0/1/1/23" type3 assure 1024 max 2048
+ dba-profile add profile-id 267 profile-name "PPPOE-0/3/2/5" type3 assure 8192  max 16384
+ dba-profile add profile-id 268 profile-name "VOICE-0/3/2/5" type3 assure 2048  max 2048
+ dba-profile add profile-id 269 profile-name "PPPOE-0/3/5/6" type3 assure 8192  max 16384
+ dba-profile add profile-id 270 profile-name "VOICE-0/3/5/6" type3 assure 2048  max 2048
+ dba-profile add profile-id 271 profile-name "PPPOE-0/3/2/6" type3 assure 8192  max 16384
+ dba-profile add profile-id 272 profile-name "VOICE-0/3/2/6" type3 assure 2048  max 2048
+ dba-profile add profile-id 273 profile-name "PPPOE-0/3/2/7" type3 assure 8192  max 16384
+ dba-profile add profile-id 274 profile-name "VOICE-0/3/2/7" type3 assure 2048  max 2048
+ dba-profile add profile-id 275 profile-name "PPPOE-0/3/5/7" type3 assure 8192  max 16384
+ dba-profile add profile-id 276 profile-name "VOICE-0/3/5/7" type3 assure 2048  max 2048
+ dba-profile add profile-id 277 profile-name "PPPOE-0/3/6/4" type3 assure 8192  max 16384
+ dba-profile add profile-id 278 profile-name "VOICE-0/3/6/4" type3 assure 2048  max 2048
+ dba-profile add profile-id 279 profile-name "PPPOE-0/2/4/14" type3 assure 8192 max 16384
+ dba-profile add profile-id 280 profile-name "VOICE-0/2/4/14" type3 assure 2048 max 2048
+ dba-profile add profile-id 281 profile-name "PPPOE-0/3/2/8" type3 assure 8192  max 16384
+ dba-profile add profile-id 282 profile-name "VOICE-0/3/2/8" type3 assure 2048  max 2048
+ dba-profile add profile-id 283 profile-name "PPPOE-0/2/2/3" type3 assure 8192  max 16384
+ dba-profile add profile-id 284 profile-name "VOICE-0/2/2/3" type3 assure 2048  max 2048
+ dba-profile add profile-id 285 profile-name "PPPOE-0/3/2/9" type3 assure 8192  max 16384
+ dba-profile add profile-id 286 profile-name "VOICE-0/3/2/9" type3 assure 2048  max 2048
+ dba-profile add profile-id 287 profile-name "PPPOE-0/2/4/15" type3 assure 8192 max 16384
+ dba-profile add profile-id 288 profile-name "VOICE-0/2/4/15" type3 assure 2048 max 2048
+ dba-profile add profile-id 289 profile-name "PPPOE-0/4/4/1" type3 assure 8192  max 16384
+ dba-profile add profile-id 290 profile-name "VOICE-0/4/4/1" type3 assure 2048  max 2048
+ dba-profile add profile-id 291 profile-name "FTTB-VOICE" type3 assure 2048 max 2048
+ dba-profile add profile-id 292 profile-name "FTTB-OTHER-4M" type3 assure 2048  max 4096
+ dba-profile add profile-id 293 profile-name "FTTB-OTHER-8M" type3 assure 4096  max 8192
+ dba-profile add profile-id 294 profile-name "FTTB-OTHER-12M" type3 assure 6144 max 12288
+ dba-profile add profile-id 295 profile-name "FTTB-OTHER-16M" type3 assure 8192 max 16384
+ dba-profile add profile-id 296 profile-name "FTTB-OTHER-20M" type3 assure 10240 max 20480
+ dba-profile add profile-id 297 profile-name "FTTB-OTHER-30M" type3 assure 15360 max 30720
+ dba-profile add profile-id 298 profile-name "FTTB-OTHER-40M" type3 assure 20480 max 40960
+ dba-profile add profile-id 299 profile-name "FTTB-OTHER-50M" type3 assure 25600 max 51200
+ dba-profile add profile-id 300 profile-name "FTTB-OTHER-60M" type3 assure 30720 max 61440
+ dba-profile add profile-id 301 profile-name "FTTB-OTHER-70M" type3 assure 35840 max 71680
+ dba-profile add profile-id 302 profile-name "FTTB-OTHER-80M" type3 assure 40960 max 81920
+ dba-profile add profile-id 303 profile-name "FTTB-OTHER-90M" type3 assure 46080 max 92160
+ dba-profile add profile-id 304 profile-name "FTTB-OTHER-100M" type3 assure 
+51200 max 102400
+ dba-profile add profile-id 305 profile-name "FTTB-OTHER-120M" type3 assure 
+61440 max 122880
+ dba-profile add profile-id 306 profile-name "FTTB-OTHER-140M" type3 assure 
+71680 max 143360
+ dba-profile add profile-id 307 profile-name "FTTB-OTHER-160M" type3 assure 
+81920 max 163840
+ dba-profile add profile-id 308 profile-name "FTTB-OTHER-180M" type3 assure 
+92160 max 184320
+ dba-profile add profile-id 309 profile-name "FTTB-OTHER-200M" type3 assure 
+102400 max 204800
+ dba-profile add profile-id 310 profile-name "PPPOE-0/3/2/10" type3 assure 8192 max 16384
+ dba-profile add profile-id 311 profile-name "VOICE-0/3/2/10" type3 assure 2048 max 2048
+ dba-profile add profile-id 312 profile-name "PPPOE-0/3/2/11" type3 assure 8192 max 16384
+ dba-profile add profile-id 313 profile-name "VOICE-0/3/2/11" type3 assure 2048 max 2048
+ dba-profile add profile-id 314 profile-name "PPPOE-0/2/7/0" type3 assure 8192  max 16384
+ dba-profile add profile-id 315 profile-name "VOICE-0/2/7/0" type3 assure 2048  max 2048
+ dba-profile add profile-id 316 profile-name "PPPOE-0/3/6/5" type3 assure 8192  max 16384
+ dba-profile add profile-id 317 profile-name "VOICE-0/3/6/5" type3 assure 2048  max 2048
+ dba-profile add profile-id 318 profile-name "PPPOE-0/3/2/12" type3 assure 8192 max 16384
+ dba-profile add profile-id 319 profile-name "VOICE-0/3/2/12" type3 assure 2048 max 2048
+ dba-profile add profile-id 320 profile-name "PPPOE-0/2/1/4" type3 assure 8192  max 16384
+ dba-profile add profile-id 321 profile-name "VOICE-0/2/1/4" type3 assure 2048  max 2048
+ dba-profile add profile-id 322 profile-name "PPPOE-0/3/2/13" type3 assure 8192 max 16384
+ dba-profile add profile-id 323 profile-name "VOICE-0/3/2/13" type3 assure 2048 max 2048
+ dba-profile add profile-id 324 profile-name "PPPOE-0/3/2/14" type3 assure 8192 max 16384
+ dba-profile add profile-id 325 profile-name "VOICE-0/3/2/14" type3 assure 2048 max 2048
+ dba-profile add profile-id 326 profile-name "PPPOE-0/3/2/15" type3 assure 8192 max 16384
+ dba-profile add profile-id 327 profile-name "VOICE-0/3/2/15" type3 assure 2048 max 2048
+ dba-profile add profile-id 328 profile-name "PPPOE-0/6/1/10" type3 assure 8192 max 16384
+ dba-profile add profile-id 329 profile-name "VOICE-0/6/1/10" type3 assure 2048 max 2048
+ dba-profile add profile-id 330 profile-name "PPPOE-0/6/1/11" type3 assure 8192 max 16384
+ dba-profile add profile-id 331 profile-name "VOICE-0/6/1/11" type3 assure 2048 max 2048
+ dba-profile add profile-id 332 profile-name "PPPOE-0/1/1/41" type3 assure 8192 max 16384
+ dba-profile add profile-id 333 profile-name "VOICE-0/1/1/41" type3 assure 2048 max 2048
+ dba-profile add profile-id 334 profile-name "FTTH-120M-NEW" type3 assure 61440 max 122880
+ dba-profile add profile-id 335 profile-name "FTTH-140M-NEW" type3 assure 71680 max 143360
+ dba-profile add profile-id 336 profile-name "FTTH-160M-NEW" type3 assure 81920 max 163840
+ dba-profile add profile-id 337 profile-name "FTTH-180M-NEW" type3 assure 92160 max 184320
+ dba-profile add profile-id 338 profile-name "FTTH-200M-NEW" type3 assure 102400 max 204800
+ dba-profile add profile-id 444 profile-name "tcq" type3 assure 1024 max 10240
+ dba-profile add profile-id 500 profile-name "tanchaoqin" type3 assure 5120 max 51200
+ ont-alarm-policy policy-id 0 policy-name alarm-policy_0
+ ont-alarm-policy policy-id 1 policy-name "FTTH_ALARM_CLASS"
+ ont-srvprofile gpon profile-id 1 profile-name "srv-profile_1"
+ ont-srvprofile gpon profile-id 2 profile-name "WLan"
+ ont-srvprofile gpon profile-id 3 profile-name "HG850-sep"
+ ont-srvprofile gpon profile-id 4 profile-name "srv-profile_4"
+ ont-srvprofile gpon profile-id 5 profile-name "PPPOE&VOICE-0/2/5/1"
+ ont-srvprofile gpon profile-id 6 profile-name "EPL&VOICE-0/1/1/17"
+ ont-srvprofile gpon profile-id 7 profile-name "PPPOE&VOICE-0/2/5/4"
+ ont-srvprofile gpon profile-id 8 profile-name "PPPOE&VOICE-0/2/1/3"
+ ont-srvprofile gpon profile-id 9 profile-name "EPL&VOICE-0/2/0/0"
+ ont-srvprofile gpon profile-id 10 profile-name "PPPOE&VOICE-0/3/7/0"
+ ont-srvprofile gpon profile-id 11 profile-name "PPPOE&VOICE-0/3/7/1"
+ ont-srvprofile gpon profile-id 12 profile-name "PPPOE&VOICE-0/2/3/0"
+ ont-srvprofile gpon profile-id 13 profile-name "EPL&VOICE-0/2/0/2"
+ ont-srvprofile gpon profile-id 14 profile-name "EPL&VOICE-0/1/1/10"
+ ont-srvprofile gpon profile-id 15 profile-name "PPPOE&VOICE-0/3/0/0"
+ ont-srvprofile gpon profile-id 16 profile-name "PPPOE&VOICE-0/3/7/2"
+ ont-srvprofile gpon profile-id 17 profile-name "PPPOE&VOICE-0/3/7/3"
+ ont-srvprofile gpon profile-id 18 profile-name "PPPOE&VOICE-0/3/6/0"
+ ont-srvprofile gpon profile-id 19 profile-name "PPPOE&VOICE-0/3/3/0"
+ ont-srvprofile gpon profile-id 20 profile-name "srv-profile_20"
+ ont-srvprofile gpon profile-id 21 profile-name "srv-profile_21"
+ ont-srvprofile gpon profile-id 22 profile-name "srv-profile_22"
+ ont-srvprofile gpon profile-id 23 profile-name "srv-profile_23"
+ ont-srvprofile gpon profile-id 24 profile-name "srv-profile_24"
+ ont-srvprofile gpon profile-id 25 profile-name "srv-profile_25"
+ ont-srvprofile gpon profile-id 26 profile-name "PPPOE&VOICE-0/3/3/1"
+ ont-srvprofile gpon profile-id 27 profile-name "PPPOE&VOICE-0/3/3/2"
+ ont-srvprofile gpon profile-id 28 profile-name "PPPOE&VOICE-0/3/3/3"
+ ont-srvprofile gpon profile-id 29 profile-name "PPPOE&VOICE-0/2/4/"
+ ont-srvprofile gpon profile-id 30 profile-name "PPPOE&VOICE-0/2/5/2"
+ ont-srvprofile gpon profile-id 31 profile-name "PPPOE&VOICE-0/2/4/0"
+ ont-srvprofile gpon profile-id 32 profile-name "PPPOE&VOICE-0/3/3/4"
+ ont-srvprofile gpon profile-id 33 profile-name "PPPOE&VOICE-0/3/3/5"
+ ont-srvprofile gpon profile-id 34 profile-name "PPPOE&VOICE-0/3/3/6"
+ ont-srvprofile gpon profile-id 35 profile-name "PPPOE&VOICE-0/3/7/4"
+ ont-srvprofile gpon profile-id 36 profile-name "PPPOE&VOICE-0/3/3/7"
+ ont-srvprofile gpon profile-id 37 profile-name "PPPOE&VOICE-0/3/3/8"
+ ont-srvprofile gpon profile-id 38 profile-name "PPPOE&VOICE-0/3/3/9"
+ ont-srvprofile gpon profile-id 39 profile-name "PPPOE&VOICE-0/2/2/0"
+ ont-srvprofile gpon profile-id 40 profile-name "PPPOE&VOICE-0/3/3/33"
+ ont-srvprofile gpon profile-id 41 profile-name "WLAN-0/1/2/8"
+ ont-srvprofile gpon profile-id 42 profile-name "WLAN-0/1/1/4"
+ ont-srvprofile gpon profile-id 43 profile-name "PPPOE&VOICE-0/3/3/11"
+ ont-srvprofile gpon profile-id 44 profile-name "PPPOE&VOICE-0/3/3/12"
+ ont-srvprofile gpon profile-id 45 profile-name "PPPOE&VOICE-0/3/3/13"
+ ont-srvprofile gpon profile-id 46 profile-name "PPPOE&VOICE-0/3/3/14"
+ ont-srvprofile gpon profile-id 47 profile-name "PPPOE&VOICE-0/3/3/15"
+ ont-srvprofile gpon profile-id 48 profile-name "FTTH-ALL"
+ ont-srvprofile gpon profile-id 49 profile-name "PPPOE&VOICE-0/3/3/16"
+ ont-srvprofile gpon profile-id 50 profile-name "PPPOE&VOICE-0/3/5/0"
+ ont-srvprofile gpon profile-id 51 profile-name "PPPOE&VOICE-0/3/3/17"
+ ont-srvprofile gpon profile-id 52 profile-name "HG8240-test"
+ ont-srvprofile gpon profile-id 53 profile-name "PPPOE&VOICE-0/2/0/3"
+ ont-srvprofile gpon profile-id 54 profile-name "FTTH-ALL-NEW"
+ ont-srvprofile gpon profile-id 55 profile-name "PPPOE&VOICE-0/3/0/1"
+ ont-srvprofile gpon profile-id 56 profile-name "PPPOE&VOICE-0/2/4/1"
+ ont-srvprofile gpon profile-id 57 profile-name "PPPOE&VOICE-0/2/5/5"
+ ont-srvprofile gpon profile-id 58 profile-name "PPPOE&VOICE-0/2/4/2"
+ ont-srvprofile gpon profile-id 59 profile-name "PPPOE&VOICE-0/2/5/6"
+ ont-srvprofile gpon profile-id 60 profile-name "PPPOE&VOICE-0/7/6/11"
+ ont-srvprofile gpon profile-id 61 profile-name "PPPOE&VOICE-0/3/3/18"
+ ont-srvprofile gpon profile-id 62 profile-name "PPPOE&VOICE-0/3/3/19"
+ ont-srvprofile gpon profile-id 63 profile-name "PPPOE&VOICE-0/3/3/20"
+ ont-srvprofile gpon profile-id 64 profile-name "PPPOE&VOICE-0/3/3/21"
+ ont-srvprofile gpon profile-id 65 profile-name "PPPOE&VOICE-0/3/6/1"
+ ont-srvprofile gpon profile-id 66 profile-name "PPPOE&VOICE-0/3/3/22"
+ ont-srvprofile gpon profile-id 67 profile-name "PPPOE&VOICE-0/2/5/7"
+ ont-srvprofile gpon profile-id 68 profile-name "PPPOE&VOICE-0/2/4/3"
+ ont-srvprofile gpon profile-id 69 profile-name "PPPOE&VOICE-0/2/4/4"
+ ont-srvprofile gpon profile-id 70 profile-name "PPPOE&VOICE-0/3/3/24"
+ ont-srvprofile gpon profile-id 71 profile-name "FTTH-WLAN"
+ ont-srvprofile gpon profile-id 72 profile-name "FTTH-WLAN-TEMP"
+ ont-srvprofile gpon profile-id 73 profile-name "PPPOE&VOICE-0/2/5/8"
+ ont-srvprofile gpon profile-id 74 profile-name "PPPOE&VOICE-0/2/4/5"
+ ont-srvprofile gpon profile-id 75 profile-name "PPPOE&VOICE-0/2/2/1"
+ ont-srvprofile gpon profile-id 76 profile-name "PPPOE&VOICE-0/3/3/25"
+ ont-srvprofile gpon profile-id 77 profile-name "PPPOE&VOICE-0/2/4/6"
+ ont-srvprofile gpon profile-id 78 profile-name "PPPOE&VOICE-0/2/4/7"
+ ont-srvprofile gpon profile-id 79 profile-name "PPPOE&VOICE-0/3/3/26"
+ ont-srvprofile gpon profile-id 80 profile-name "PPPOE&VOICE-0/3/5/1"
+ ont-srvprofile gpon profile-id 81 profile-name "PPPOE&VOICE-0/2/3/2"
+ ont-srvprofile gpon profile-id 82 profile-name "PPPOE&VOICE-0/3/3/27"
+ ont-srvprofile gpon profile-id 83 profile-name "PPPOE&VOICE-0/3/3/28"
+ ont-srvprofile gpon profile-id 84 profile-name "PPPOE&VOICE-0/2/4/8"
+ ont-srvprofile gpon profile-id 85 profile-name "PPPOE&VOICE-0/2/4/9"
+ ont-srvprofile gpon profile-id 86 profile-name "PPPOE&VOICE-0/3/3/29"
+ ont-srvprofile gpon profile-id 87 profile-name "PPPOE&VOICE-0/2/4/10"
+ ont-srvprofile gpon profile-id 88 profile-name "PPPOE&VOICE-0/2/4/11"
+ ont-srvprofile gpon profile-id 89 profile-name "PPPOE&VOICE-0/3/6/2"
+ ont-srvprofile gpon profile-id 90 profile-name "PPPOE&VOICE-0/2/2/2"
+ ont-srvprofile gpon profile-id 91 profile-name "PPPOE&VOICE-0/2/4/12"
+ ont-srvprofile gpon profile-id 92 profile-name "PPPOE&VOICE-0/3/5/2"
+ ont-srvprofile gpon profile-id 93 profile-name "PPPOE&VOICE-0/3/7/5"
+ ont-srvprofile gpon profile-id 94 profile-name "PPPOE&VOICE-0/2/4/13"
+ ont-srvprofile gpon profile-id 95 profile-name "PPPOE&VOICE-0/3/3/30"
+ ont-srvprofile gpon profile-id 96 profile-name "PPPOE&VOICE-0/3/3/31"
+ ont-srvprofile gpon profile-id 97 profile-name "PPPOE&VOICE-0/3/5/3"
+ ont-srvprofile gpon profile-id 98 profile-name "PPPOE&VOICE-0/3/3/32"
+ ont-srvprofile gpon profile-id 99 profile-name "PPPOE&VOICE-0/2/1/1"
+ ont-srvprofile gpon profile-id 100 profile-name "PPPOE&VOICE-0/3/6/3"
+ ont-srvprofile gpon profile-id 101 profile-name "PPPOE&VOICE-0/2/5/9"
+ ont-srvprofile gpon profile-id 102 profile-name "PPPOE&VOICE-0/3/5/4"
+ ont-srvprofile gpon profile-id 103 profile-name "PPPOE&VOICE-0/3/2/0"
+ ont-srvprofile gpon profile-id 104 profile-name "PPPOE&VOICE-0/3/4/0"
+ ont-srvprofile gpon profile-id 105 profile-name "PPPOE&VOICE-0/3/2/1"
+ ont-srvprofile gpon profile-id 106 profile-name "PPPOE&VOICE-0/3/2/3"
+ ont-srvprofile gpon profile-id 107 profile-name "PPPOE&VOICE-0/3/2/4"
+ ont-srvprofile gpon profile-id 108 profile-name "PPPOE&VOICE-0/2/1/2"
+ ont-srvprofile gpon profile-id 109 profile-name "PPPOE&VOICE-0/3/5/5"
+ ont-srvprofile gpon profile-id 110 profile-name "PPPOE&VOICE-0/4/4/0"
+ ont-srvprofile gpon profile-id 111 profile-name "PPPOE&VOICE-0/4/5/0"
+ ont-srvprofile gpon profile-id 112 profile-name "EPL&VOICE-0/1/1/23"
+ ont-srvprofile gpon profile-id 113 profile-name "PPPOE&VOICE-0/3/2/5"
+ ont-srvprofile gpon profile-id 114 profile-name "PPPOE&VOICE-0/3/5/6"
+ ont-srvprofile gpon profile-id 115 profile-name "PPPOE&VOICE-0/3/2/6"
+ ont-srvprofile gpon profile-id 116 profile-name "PPPOE&VOICE-0/3/2/7"
+ ont-srvprofile gpon profile-id 117 profile-name "PPPOE&VOICE-0/3/5/7"
+ ont-srvprofile gpon profile-id 118 profile-name "PPPOE&VOICE-0/3/6/4"
+ ont-srvprofile gpon profile-id 119 profile-name "PPPOE&VOICE-0/2/4/14"
+ ont-srvprofile gpon profile-id 120 profile-name "PPPOE&VOICE-0/3/2/8"
+ ont-srvprofile gpon profile-id 121 profile-name "PPPOE&VOICE-0/2/2/3"
+ ont-srvprofile gpon profile-id 122 profile-name "PPPOE&VOICE-0/3/2/9"
+ ont-srvprofile gpon profile-id 123 profile-name "PPPOE&VOICE-0/2/4/15"
+ ont-srvprofile gpon profile-id 124 profile-name "PPPOE&VOICE-0/4/4/1"
+ ont-srvprofile gpon profile-id 125 profile-name "PPPOE&VOICE-0/3/2/10"
+ ont-srvprofile gpon profile-id 126 profile-name "PPPOE&VOICE-0/3/2/11"
+ ont-srvprofile gpon profile-id 127 profile-name "PPPOE&VOICE-0/2/7/0"
+ ont-srvprofile gpon profile-id 128 profile-name "PPPOE&VOICE-0/3/6/5"
+ ont-srvprofile gpon profile-id 129 profile-name "PPPOE&VOICE-0/3/2/12"
+ ont-srvprofile gpon profile-id 130 profile-name "PPPOE&VOICE-0/2/1/4"
+ ont-srvprofile gpon profile-id 131 profile-name "PPPOE&VOICE-0/3/2/13"
+ ont-srvprofile gpon profile-id 132 profile-name "PPPOE&VOICE-0/3/2/14"
+ ont-srvprofile gpon profile-id 133 profile-name "PPPOE&VOICE-0/3/2/15"
+ ont-srvprofile gpon profile-id 134 profile-name "PPPOE&VOICE-0/6/1/10"
+ ont-srvprofile gpon profile-id 135 profile-name "PPPOE&VOICE-0/6/1/11"
+ ont-srvprofile gpon profile-id 136 profile-name "PPPOE&VOICE-0/1/1/41"
+ ont-srvprofile gpon profile-id 137 profile-name "hwtest"
+ ont-srvprofile gpon profile-id 138 profile-name "HG824X-default"
+ ont-srvprofile gpon profile-id 139 profile-name "srv-profile_139"
+ ont-srvprofile gpon profile-id 140 profile-name "ftth_default"
+ ont-srvprofile gpon profile-id 141 profile-name "ftth"
+ ont-srvprofile gpon profile-id 142 profile-name "HG8310test"
+ ont-srvprofile gpon profile-id 143 profile-name "srvprofile_default_0"
+ ont-srvprofile gpon profile-id 150 profile-name "HG8240-CS"
+ ont-srvprofile gpon profile-id 777 profile-name "chenmaohong"
+ ont-srvprofile gpon profile-id 888 profile-name "tcq"
+ ont-srvprofile gpon profile-id 999 profile-name "tanchaoqin"
+ ont-lineprofile gpon profile-id 0 profile-name "line-profile_default_0"
+ ont-lineprofile gpon profile-id 1 profile-name "line-profile_1"
+ ont-lineprofile gpon profile-id 2 profile-name "line-profile_2"
+ ont-lineprofile gpon profile-id 3 profile-name "WLan"
+ ont-lineprofile gpon profile-id 4 profile-name "FTTB"
+ ont-lineprofile gpon profile-id 5 profile-name "HG850-jiake-sep"
+ ont-lineprofile gpon profile-id 6 profile-name "PPPOE&VOICE-0/2/5/1"
+ ont-lineprofile gpon profile-id 7 profile-name "EPL&VOICE-0/1/1/17"
+ ont-lineprofile gpon profile-id 8 profile-name "PPPOE&VOICE-0/2/5/4"
+ ont-lineprofile gpon profile-id 9 profile-name "PPPOE&VOICE-0/2/1/3"
+ ont-lineprofile gpon profile-id 10 profile-name "MA5620G"
+ ont-lineprofile gpon profile-id 11 profile-name "line-profile_11"
+ ont-lineprofile gpon profile-id 12 profile-name "DeXinHuaCheng-4-2"
+ ont-lineprofile gpon profile-id 13 profile-name "EPL&VOICE-0/2/0/0"
+ ont-lineprofile gpon profile-id 14 profile-name "PPPOE&VOICE-0/3/7/0"
+ ont-lineprofile gpon profile-id 15 profile-name "PPPOE&VOICE-0/3/7/1"
+ ont-lineprofile gpon profile-id 16 profile-name "line-profile_16"
+ ont-lineprofile gpon profile-id 17 profile-name "PPPOE&VOICE-0/2/3/0"
+ ont-lineprofile gpon profile-id 18 profile-name "EPL&VOICE-0/2/0/2"
+ ont-lineprofile gpon profile-id 19 profile-name "EPL&VOICE-0/1/1/10"
+ ont-lineprofile gpon profile-id 20 profile-name "line-profile_20"
+ ont-lineprofile gpon profile-id 21 profile-name "line-profile_21"
+ ont-lineprofile gpon profile-id 22 profile-name "HG8240-jiake-sep"
+ ont-lineprofile gpon profile-id 23 profile-name "PPPOE&VOICE-0/3/0/0"
+ ont-lineprofile gpon profile-id 24 profile-name "PPPOE&VOICE-0/3/7/2"
+ ont-lineprofile gpon profile-id 25 profile-name "PPPOE&VOICE-0/3/7/3"
+ ont-lineprofile gpon profile-id 26 profile-name "PPPOE&VOICE-0/3/6/0"
+ ont-lineprofile gpon profile-id 27 profile-name "PPPOE&VOICE-0/3/3/0"
+ ont-lineprofile gpon profile-id 28 profile-name "PPPOE&VOICE-0/3/3/1"
+ ont-lineprofile gpon profile-id 29 profile-name "PPPOE&VOICE-0/3/3/2"
+ ont-lineprofile gpon profile-id 30 profile-name "PPPOE&VOICE-0/3/3/3"
+ ont-lineprofile gpon profile-id 31 profile-name "PPPOE&VOICE-0/2/4/"
+ ont-lineprofile gpon profile-id 32 profile-name "PPPOE&VOICE-0/2/5/2"
+ ont-lineprofile gpon profile-id 33 profile-name "PPPOE&VOICE-0/2/4/0"
+ ont-lineprofile gpon profile-id 34 profile-name "PPPOE&VOICE-0/3/3/4"
+ ont-lineprofile gpon profile-id 35 profile-name "PPPOE&VOICE-0/3/3/5"
+ ont-lineprofile gpon profile-id 36 profile-name "PPPOE&VOICE-0/3/3/6"
+ ont-lineprofile gpon profile-id 37 profile-name "PPPOE&VOICE-0/3/7/4"
+ ont-lineprofile gpon profile-id 38 profile-name "PPPOE&VOICE-0/3/3/7"
+ ont-lineprofile gpon profile-id 39 profile-name "PPPOE&VOICE-0/3/3/8"
+ ont-lineprofile gpon profile-id 40 profile-name "PPPOE&VOICE-0/3/3/9"
+ ont-lineprofile gpon profile-id 41 profile-name "PPPOE&VOICE-0/2/2/0"
+ ont-lineprofile gpon profile-id 42 profile-name "PPPOE&VOICE-0/3/3/33"
+ ont-lineprofile gpon profile-id 43 profile-name "WLAN-0/1/2/8"
+ ont-lineprofile gpon profile-id 44 profile-name "WLAN-0/1/1/4"
+ ont-lineprofile gpon profile-id 45 profile-name "PPPOE&VOICE-0/3/3/11"
+ ont-lineprofile gpon profile-id 46 profile-name "PPPOE&VOICE-0/3/3/12"
+ ont-lineprofile gpon profile-id 47 profile-name "PPPOE&VOICE-0/3/3/13"
+ ont-lineprofile gpon profile-id 48 profile-name "PPPOE&VOICE-0/3/3/14"
+ ont-lineprofile gpon profile-id 49 profile-name "PPPOE&VOICE-0/3/3/15"
+ ont-lineprofile gpon profile-id 50 profile-name "FTTB-ALL"
+ ont-lineprofile gpon profile-id 51 profile-name "FTTH-ALL"
+ ont-lineprofile gpon profile-id 52 profile-name "PPPOE&VOICE-0/3/3/16"
+ ont-lineprofile gpon profile-id 53 profile-name "PPPOE&VOICE-0/3/5/0"
+ ont-lineprofile gpon profile-id 54 profile-name "PPPOE&VOICE-0/3/3/17"
+ ont-lineprofile gpon profile-id 55 profile-name "HG8240-test"
+ ont-lineprofile gpon profile-id 56 profile-name "PPPOE&VOICE-0/2/0/3"
+ ont-lineprofile gpon profile-id 57 profile-name "FTTH-ALL-NEW"
+ ont-lineprofile gpon profile-id 58 profile-name "PPPOE&VOICE-0/3/0/1"
+ ont-lineprofile gpon profile-id 59 profile-name "PPPOE&VOICE-0/2/4/1"
+ ont-lineprofile gpon profile-id 60 profile-name "PPPOE&VOICE-0/2/5/5"
+ ont-lineprofile gpon profile-id 61 profile-name "PPPOE&VOICE-0/2/4/2"
+ ont-lineprofile gpon profile-id 62 profile-name "PPPOE&VOICE-0/2/5/6"
+ ont-lineprofile gpon profile-id 63 profile-name "PPPOE&VOICE-0/7/6/11"
+ ont-lineprofile gpon profile-id 64 profile-name "PPPOE&VOICE-0/3/3/18"
+ ont-lineprofile gpon profile-id 65 profile-name "PPPOE&VOICE-0/3/3/19"
+ ont-lineprofile gpon profile-id 66 profile-name "PPPOE&VOICE-0/3/3/20"
+ ont-lineprofile gpon profile-id 67 profile-name "PPPOE&VOICE-0/3/3/21"
+ ont-lineprofile gpon profile-id 68 profile-name "FTTB-ALL-NEW"
+ ont-lineprofile gpon profile-id 69 profile-name "PPPOE&VOICE-0/3/6/1"
+ ont-lineprofile gpon profile-id 70 profile-name "PPPOE&VOICE-0/3/3/22"
+ ont-lineprofile gpon profile-id 71 profile-name "PPPOE&VOICE-0/2/5/7"
+ ont-lineprofile gpon profile-id 72 profile-name "PPPOE&VOICE-0/2/4/3"
+ ont-lineprofile gpon profile-id 73 profile-name "PPPOE&VOICE-0/2/4/4"
+ ont-lineprofile gpon profile-id 74 profile-name "PPPOE&VOICE-0/3/3/24"
+ ont-lineprofile gpon profile-id 75 profile-name "FTTH-WLAN"
+ ont-lineprofile gpon profile-id 76 profile-name "FTTH-WLAN-TEMP"
+ ont-lineprofile gpon profile-id 77 profile-name "PPPOE&VOICE-0/2/5/8"
+ ont-lineprofile gpon profile-id 78 profile-name "PPPOE&VOICE-0/2/4/5"
+ ont-lineprofile gpon profile-id 79 profile-name "PPPOE&VOICE-0/2/2/1"
+ ont-lineprofile gpon profile-id 80 profile-name "line-profile_80"
+ ont-lineprofile gpon profile-id 81 profile-name "DeXinHuaCheng"
+ ont-lineprofile gpon profile-id 82 profile-name "PPPOE&VOICE-0/3/3/25"
+ ont-lineprofile gpon profile-id 83 profile-name "PPPOE&VOICE-0/2/4/6"
+ ont-lineprofile gpon profile-id 84 profile-name "PPPOE&VOICE-0/2/4/7"
+ ont-lineprofile gpon profile-id 85 profile-name "PPPOE&VOICE-0/3/3/26"
+ ont-lineprofile gpon profile-id 86 profile-name "PPPOE&VOICE-0/3/5/1"
+ ont-lineprofile gpon profile-id 87 profile-name "PPPOE&VOICE-0/2/3/2"
+ ont-lineprofile gpon profile-id 88 profile-name "PPPOE&VOICE-0/3/3/27"
+ ont-lineprofile gpon profile-id 89 profile-name "PPPOE&VOICE-0/3/3/28"
+ ont-lineprofile gpon profile-id 90 profile-name "PPPOE&VOICE-0/2/4/8"
+ ont-lineprofile gpon profile-id 91 profile-name "PPPOE&VOICE-0/2/4/9"
+ ont-lineprofile gpon profile-id 92 profile-name "PPPOE&VOICE-0/3/3/29"
+ ont-lineprofile gpon profile-id 93 profile-name "PPPOE&VOICE-0/2/4/10"
+ ont-lineprofile gpon profile-id 94 profile-name "PPPOE&VOICE-0/2/4/11"
+ ont-lineprofile gpon profile-id 95 profile-name "PPPOE&VOICE-0/3/6/2"
+ ont-lineprofile gpon profile-id 96 profile-name "PPPOE&VOICE-0/2/2/2"
+ ont-lineprofile gpon profile-id 97 profile-name "PPPOE&VOICE-0/2/4/12"
+ ont-lineprofile gpon profile-id 98 profile-name "PPPOE&VOICE-0/3/5/2"
+ ont-lineprofile gpon profile-id 99 profile-name "PPPOE&VOICE-0/3/7/5"
+ ont-lineprofile gpon profile-id 100 profile-name "PPPOE&VOICE-0/2/4/13"
+ ont-lineprofile gpon profile-id 101 profile-name "PPPOE&VOICE-0/3/3/30"
+ ont-lineprofile gpon profile-id 102 profile-name "PPPOE&VOICE-0/3/3/31"
+ ont-lineprofile gpon profile-id 103 profile-name "PPPOE&VOICE-0/3/5/3"
+ ont-lineprofile gpon profile-id 104 profile-name "PPPOE&VOICE-0/3/3/32"
+ ont-lineprofile gpon profile-id 105 profile-name "PPPOE&VOICE-0/2/1/1"
+ ont-lineprofile gpon profile-id 106 profile-name "PPPOE&VOICE-0/3/6/3"
+ ont-lineprofile gpon profile-id 107 profile-name "PPPOE&VOICE-0/2/5/9"
+ ont-lineprofile gpon profile-id 108 profile-name "PPPOE&VOICE-0/3/5/4"
+ ont-lineprofile gpon profile-id 109 profile-name "PPPOE&VOICE-0/3/2/0"
+ ont-lineprofile gpon profile-id 110 profile-name "PPPOE&VOICE-0/3/4/0"
+ ont-lineprofile gpon profile-id 111 profile-name "PPPOE&VOICE-0/3/2/1"
+ ont-lineprofile gpon profile-id 112 profile-name "PPPOE&VOICE-0/3/2/3"
+ ont-lineprofile gpon profile-id 113 profile-name "PPPOE&VOICE-0/3/2/4"
+ ont-lineprofile gpon profile-id 114 profile-name "PPPOE&VOICE-0/2/1/2"
+ ont-lineprofile gpon profile-id 115 profile-name "PPPOE&VOICE-0/3/5/5"
+ ont-lineprofile gpon profile-id 116 profile-name "PPPOE&VOICE-0/4/4/0"
+ ont-lineprofile gpon profile-id 117 profile-name "PPPOE&VOICE-0/4/5/0"
+ ont-lineprofile gpon profile-id 118 profile-name "hwtest"
+ ont-lineprofile gpon profile-id 119 profile-name "FTTH-4M-NEW"
+ ont-lineprofile gpon profile-id 120 profile-name "FTTH-6M-NEW"
+ ont-lineprofile gpon profile-id 121 profile-name "FTTH-8M-NEW"
+ ont-lineprofile gpon profile-id 122 profile-name "FTTH-10M-NEW"
+ ont-lineprofile gpon profile-id 123 profile-name "FTTH-12M-NEW"
+ ont-lineprofile gpon profile-id 124 profile-name "FTTH-14M-NEW"
+ ont-lineprofile gpon profile-id 125 profile-name "FTTH-16M-NEW"
+ ont-lineprofile gpon profile-id 126 profile-name "FTTH-18M-NEW"
+ ont-lineprofile gpon profile-id 127 profile-name "FTTH-20M-NEW"
+ ont-lineprofile gpon profile-id 128 profile-name "MA5620-24ETH-POTS"
+ ont-lineprofile gpon profile-id 129 profile-name "MA5610-ETH-POTS"
+ ont-lineprofile gpon profile-id 130 profile-name "MA5612-ETH-POTS"
+ ont-lineprofile gpon profile-id 131 profile-name "MA5616-DSL-POTS"
+ ont-lineprofile gpon profile-id 132 profile-name "FTTH-30M-NEW"
+ ont-lineprofile gpon profile-id 133 profile-name "MA5620-16ETH-POTS"
+ ont-lineprofile gpon profile-id 134 profile-name "MA5620-8ETH-POTS"
+ ont-lineprofile gpon profile-id 135 profile-name "MA5626-16ETH"
+ ont-lineprofile gpon profile-id 136 profile-name "MA5626-24ETH"
+ ont-lineprofile gpon profile-id 137 profile-name "FTTH-40M-NEW"
+ ont-lineprofile gpon profile-id 138 profile-name "MA5626-8ETH"
+ ont-lineprofile gpon profile-id 139 profile-name "HG824X-default"
+ ont-lineprofile gpon profile-id 140 profile-name "FTTB-PRIORITY-10M"
+ ont-lineprofile gpon profile-id 141 profile-name "MA5620-24ETH-POTS10M"
+ ont-lineprofile gpon profile-id 142 profile-name "FTTH-50M-NEW"
+ ont-lineprofile gpon profile-id 143 profile-name "MA5620-24ETH-POTS 6M"
+ ont-lineprofile gpon profile-id 144 profile-name "MA5620-24ETH-POTS-6M"
+ ont-lineprofile gpon profile-id 145 profile-name "FTTB-8M"
+ ont-lineprofile gpon profile-id 146 profile-name "MA5620-24ETH-POTS-kong"
+ ont-lineprofile gpon profile-id 147 profile-name "FTTH-60M-NEW"
+ ont-lineprofile gpon profile-id 148 profile-name "MA5620-24ETH-POTS-H821"
+ ont-lineprofile gpon profile-id 149 profile-name "MA5620-24ETH-POTS-12M"
+ ont-lineprofile gpon profile-id 150 profile-name "MA5620-24ETH-POTS-16M"
+ ont-lineprofile gpon profile-id 151 profile-name "MA5626-24ETH-28M"
+ ont-lineprofile gpon profile-id 152 profile-name "FTTH-70M-NEW"
+ ont-lineprofile gpon profile-id 153 profile-name "MA5626-24ETH-24M"
+ ont-lineprofile gpon profile-id 154 profile-name "MA5626-24ETH-32M"
+ ont-lineprofile gpon profile-id 155 profile-name "MA5626-24ETH-36M"
+ ont-lineprofile gpon profile-id 156 profile-name "MA5620-24ETH-POTS-24M"
+ ont-lineprofile gpon profile-id 157 profile-name "FTTH-80M-NEW"
+ ont-lineprofile gpon profile-id 158 profile-name "MA5620-24ETH-POTS-4M"
+ ont-lineprofile gpon profile-id 159 profile-name "MA5620-24ETH-POTS-H821-16M"
+ ont-lineprofile gpon profile-id 160 profile-name "MA5620-24ETH-POTS-H821-24M"
+ ont-lineprofile gpon profile-id 161 profile-name "MA5620-24ETH-POTS-H821-28M"
+ ont-lineprofile gpon profile-id 162 profile-name "FTTH-90M-NEW"
+ ont-lineprofile gpon profile-id 163 profile-name "MA5620-24ETH-POTS-H821-4M"
+ ont-lineprofile gpon profile-id 164 profile-name "MA5626-24ETH-12M"
+ ont-lineprofile gpon profile-id 165 profile-name "MA5626-24ETH-16M"
+ ont-lineprofile gpon profile-id 166 profile-name "MA5621-4ETH"
+ ont-lineprofile gpon profile-id 167 profile-name "FTTH-100M-NEW"
+ ont-lineprofile gpon profile-id 168 profile-name "PPPOE&VOICE-0/1/1/23"
+ ont-lineprofile gpon profile-id 169 profile-name "EPL&VOICE-0/1/1/23"
+ ont-lineprofile gpon profile-id 170 profile-name "PPPOE&VOICE-0/3/2/5"
+ ont-lineprofile gpon profile-id 171 profile-name "PPPOE&VOICE-0/3/5/6"
+ ont-lineprofile gpon profile-id 172 profile-name "PPPOE&VOICE-0/3/2/6"
+ ont-lineprofile gpon profile-id 173 profile-name "PPPOE&VOICE-0/3/2/7"
+ ont-lineprofile gpon profile-id 174 profile-name "PPPOE&VOICE-0/3/5/7"
+ ont-lineprofile gpon profile-id 175 profile-name "PPPOE&VOICE-0/3/6/4"
+ ont-lineprofile gpon profile-id 176 profile-name "PPPOE&VOICE-0/2/4/14"
+ ont-lineprofile gpon profile-id 177 profile-name "PPPOE&VOICE-0/3/2/8"
+ ont-lineprofile gpon profile-id 178 profile-name "PPPOE&VOICE-0/2/2/3"
+ ont-lineprofile gpon profile-id 179 profile-name "PPPOE&VOICE-0/3/2/9"
+ ont-lineprofile gpon profile-id 180 profile-name "PPPOE&VOICE-0/2/4/15"
+ ont-lineprofile gpon profile-id 181 profile-name "PPPOE&VOICE-0/4/4/1"
+ ont-lineprofile gpon profile-id 182 profile-name "FTTB-PRIORITY-4M"
+ ont-lineprofile gpon profile-id 183 profile-name "FTTB-PRIORITY-8M"
+ ont-lineprofile gpon profile-id 184 profile-name "FTTB-PRIORITY-12M"
+ ont-lineprofile gpon profile-id 185 profile-name "FTTB-PRIORITY-16M"
+ ont-lineprofile gpon profile-id 186 profile-name "FTTB-PRIORITY-20M"
+ ont-lineprofile gpon profile-id 187 profile-name "FTTB-PRIORITY-30M"
+ ont-lineprofile gpon profile-id 188 profile-name "FTTB-PRIORITY-40M"
+ ont-lineprofile gpon profile-id 189 profile-name "FTTB-PRIORITY-50M"
+ ont-lineprofile gpon profile-id 190 profile-name "FTTB-PRIORITY-60M"
+ ont-lineprofile gpon profile-id 191 profile-name "FTTB-PRIORITY-70M"
+ ont-lineprofile gpon profile-id 192 profile-name "FTTB-PRIORITY-80M"
+ ont-lineprofile gpon profile-id 193 profile-name "FTTB-PRIORITY-90M"
+ ont-lineprofile gpon profile-id 194 profile-name "FTTB-PRIORITY-100M"
+ ont-lineprofile gpon profile-id 195 profile-name "FTTB-PRIORITY-120M"
+ ont-lineprofile gpon profile-id 196 profile-name "FTTB-PRIORITY-140M"
+ ont-lineprofile gpon profile-id 197 profile-name "FTTB-PRIORITY-160M"
+ ont-lineprofile gpon profile-id 198 profile-name "FTTB-PRIORITY-180M"
+ ont-lineprofile gpon profile-id 199 profile-name "FTTB-PRIORITY-200M"
+ ont-lineprofile gpon profile-id 200 profile-name "PPPOE&VOICE-0/3/2/10"
+ ont-lineprofile gpon profile-id 201 profile-name "PPPOE&VOICE-0/3/2/11"
+ ont-lineprofile gpon profile-id 202 profile-name "PPPOE&VOICE-0/2/7/0"
+ ont-lineprofile gpon profile-id 203 profile-name "PPPOE&VOICE-0/3/6/5"
+ ont-lineprofile gpon profile-id 204 profile-name "PPPOE&VOICE-0/3/2/12"
+ ont-lineprofile gpon profile-id 205 profile-name "PPPOE&VOICE-0/2/1/4"
+ ont-lineprofile gpon profile-id 206 profile-name "PPPOE&VOICE-0/3/2/13"
+ ont-lineprofile gpon profile-id 207 profile-name "PPPOE&VOICE-0/3/2/14"
+ ont-lineprofile gpon profile-id 208 profile-name "PPPOE&VOICE-0/3/2/15"
+ ont-lineprofile gpon profile-id 209 profile-name "PPPOE&VOICE-0/6/1/10"
+ ont-lineprofile gpon profile-id 210 profile-name "PPPOE&VOICE-0/6/1/11"
+ ont-lineprofile gpon profile-id 211 profile-name "PPPOE&VOICE-0/1/1/41"
+ ont-lineprofile gpon profile-id 212 profile-name "FTTH-120M-NEW"
+ ont-lineprofile gpon profile-id 213 profile-name "FTTH-140M-NEW"
+ ont-lineprofile gpon profile-id 214 profile-name "FTTH-160M-NEW"
+ ont-lineprofile gpon profile-id 215 profile-name "FTTH-180M-NEW"
+ ont-lineprofile gpon profile-id 216 profile-name "FTTH-200M-NEW"
+ ont-lineprofile gpon profile-id 217 profile-name "ftth_default"
+ ont-lineprofile gpon profile-id 218 profile-name "ftth"
+ ont-lineprofile gpon profile-id 219 profile-name "HG8310test"
+ ont-lineprofile gpon profile-id 220 profile-name "huawei1"
+ ont-lineprofile gpon profile-id 221 profile-name "MA5694-8ETH-24M"
+ ont-lineprofile gpon profile-id 222 profile-name "GD_MA5620_24ETH_POTS"
+ ont-lineprofile gpon profile-id 223 profile-name "GD_MA5620_8ETH_POTS"
+ ont-lineprofile gpon profile-id 224 profile-name "GD_FTTB_MA5620-24"
+ ont-lineprofile gpon profile-id 225 profile-name "GD_FTTB_MA5626-24"
+ ont-lineprofile gpon profile-id 226 profile-name "GD_MA5626_16ETH"
+ ont-lineprofile gpon profile-id 227 profile-name "GD_MA5626_24ETH"
+ ont-lineprofile gpon profile-id 228 profile-name "GD_MA5610_ETH_POTS"
+ ont-lineprofile gpon profile-id 229 profile-name "GD_MA5612_ETH_POTS"
+ ont-lineprofile gpon profile-id 230 profile-name "GD_MA5616_DSL_POTS"
+ ont-lineprofile gpon profile-id 231 profile-name "GD_MA5616_DSL_POTS_1"
+ ont-lineprofile gpon profile-id 232 profile-name "GD_MA5620_16ETH_POTS"
+ ont-lineprofile gpon profile-id 233 profile-name "GD_MA5620_24ETH_POTS_H821"
+ ont-lineprofile gpon profile-id 234 profile-name "lineprofile_default_0"
+ ont-lineprofile gpon profile-id 235 profile-name "lineprofile_default_36"
+ ont-lineprofile gpon profile-id 777 profile-name "chenmaohong"
+ ont-lineprofile gpon profile-id 888 profile-name "tcq"
+ ont-lineprofile gpon profile-id 999 profile-name "tanchaoqin"
+
+YJ_ZongHeLou_MA5680T(config)#display current-configuration port  0/1/1
+[MA5600V800R013: 3910]
+#
+[gpon]
+  <gpon-0/1>
+ interface gpon 0/1
+ port 1 ont-auto-find enable
+ ont add 1 1 password-auth "C6fYYQpwYn" hex "4336665959517077596E" always-on 
+omci ont-lineprofile-id 218 ont-srvprofile-id 141 desc "ONT_NO_DESCRIPTION" 
+ ont alarm-policy 1 1 policy-id 1
+ ont add 1 2 password-auth "C6s6tPxnrw" hex "433673367450786E7277" always-on 
+omci ont-lineprofile-id 218 ont-srvprofile-id 141 desc "ONT_NO_DESCRIPTION" 
+ ont alarm-policy 1 2 policy-id 1
+ ont add 1 3 sn-auth "485754435587B60A" snmp ont-lineprofile-id 164 desc "阳江江城建设一路12街23号之二-ONU901-HW-HG8240(H)" 
+ ont snmp-profile 1 3 profile-id 3
+ ont ipconfig 1 3 static ip-address 172.28.0.73 mask 255.255.255.128 vlan 4000  priority 0 gateway 172.28.0.1
+ ont add 1 4 sn-auth "485754435587EE0A" snmp ont-lineprofile-id 164 desc "阳江江城银湾市场新湾小区A1006（2）-ONU901-HW-HG8010(H)" 
+ ont snmp-profile 1 4 profile-id 3
+ ont ipconfig 1 4 static ip-address 172.28.0.76 mask 255.255.255.128 vlan 4000  priority 0 gateway 172.28.0.1
+ ont add 1 7 sn-auth "485754435588020A" snmp ont-lineprofile-id 164 desc "阳江江城城北新村二巷9号（小肥羊背）-ONU901-HW-HG8240(H)" 
+ ont snmp-profile 1 7 profile-id 3
+ ont ipconfig 1 7 static ip-address 172.28.0.74 mask 255.255.255.128 vlan 4000  priority 0 gateway 172.28.0.1
+ ont add 1 8 sn-auth "485754439ACC1904" omci ont-lineprofile-id 167 
+ont-srvprofile-id 71 desc "阳江江城新江雅苑伟业楼A座2幢307房-ONU501-HW-HG8240(H)" 
+ ont add 1 9 password-auth "C6sN8F7a9m" hex "4336734E38463761396D" always-on 
+omci ont-lineprofile-id 218 ont-srvprofile-id 141 desc "阳江市江城区城东街道石湾北路223号001巷001-01-ONU524-HW-HG8245(H)" 
+ ont alarm-policy 1 9 policy-id 1
+ ont add 1 10 password-auth "t249921502" hex "74323439393231353032" always-on 
+omci ont-lineprofile-id 218 ont-srvprofile-id 141 desc "
+阳江江城白云路6号-ONU2101-HW-HG8240H" 
+ ont alarm-policy 1 10 policy-id 1
+ ont add 1 11 password-auth "C6CVG9dALN" hex "43364356473964414C4E" always-on 
+omci ont-lineprofile-id 218 ont-srvprofile-id 141 desc "阳江市江城区城东街道石湾北路223号001巷001-01-ONU003-HW-HG8541M-(H)" 
+ ont alarm-policy 1 11 policy-id 1
+ ont add 1 12 password-auth "t001112402" hex "74303031313132343032" always-on 
+omci ont-lineprofile-id 218 ont-srvprofile-id 141 desc "ONT_NO_DESCRIPTION" 
+ ont alarm-policy 1 12 policy-id 1
+ ont add 1 13 sn-auth "48575443241FAF07" snmp ont-lineprofile-id 164 desc "阳江 江城科工信局-ONU001-HW-MA5626(W)" 
+ ont snmp-profile 1 13 profile-id 3
+ ont ipconfig 1 13 static ip-address 172.28.0.56 mask 255.255.255.128 vlan 4000 priority 0 gateway 172.28.0.1
+ ont add 1 14 sn-auth "48575443545E140A" snmp ont-lineprofile-id 164 desc "阳江 江城江城移动宿舍-ONU001-HW-MA5626(W)" 
+ ont snmp-profile 1 14 profile-id 1
+ ont ipconfig 1 14 static ip-address 172.28.0.63 mask 255.255.255.128 vlan 4000 priority 0 gateway 172.28.0.1
+ ont add 1 15 password-auth "t220068472" hex "74323230303638343732" always-on 
+omci ont-lineprofile-id 218 ont-srvprofile-id 141 desc "ONT_NO_DESCRIPTION" 
+ ont alarm-policy 1 15 policy-id 1
+ ont add 1 16 password-auth "t756603042" hex "74373536363033303432" always-on 
+omci ont-lineprofile-id 218 ont-srvprofile-id 141 desc "ONT_NO_DESCRIPTION" 
+ ont alarm-policy 1 16 policy-id 1
+ ont add 1 17 sn-auth "485754432853C307" snmp ont-lineprofile-id 128 desc "阳江 江城狮子山市场街32号-ONU001-HW-MA5620(H)" 
+ ont ipconfig 1 17 static ip-address 172.28.0.125 mask 255.255.255.128 vlan 4000 priority 6 gateway 172.28.0.1
+ ont add 1 18 sn-auth "48575443CAFE0C0E" omci ont-lineprofile-id 139 
+ont-srvprofile-id 138 desc "阳江江城石湾北路223号-ONU001-HW-HG8240(J)移动通信大 楼1楼1" 
+ ont add 1 20 sn-auth "4857544338054D06" omci ont-lineprofile-id 5 
+ont-srvprofile-id 3 desc "阳江江城石湾路新湾小区C2-101（乔尔卡丹实业有限公司）-0NU001-HW-HG8240" 
+ ont add 1 21 sn-auth "48575443F10C6909" omci ont-lineprofile-id 139 
+ont-srvprofile-id 138 desc "阳江江城阳江市江城区石湾北-ONU987-HW-8321R(H)" 
+ ont add 1 22 sn-auth "485754433804FC06" omci ont-lineprofile-id 218 
+ont-srvprofile-id 141 desc "JC-ZaiShuiYiFang5Dong503" 
+ ont alarm-policy 1 22 policy-id 1
+ ont add 1 24 password-auth "t249917503" hex "74323439393137353033" always-on 
+omci ont-lineprofile-id 218 ont-srvprofile-id 141 desc "ONT_NO_DESCRIPTION" 
+ ont alarm-policy 1 24 policy-id 1
+ ont add 1 25 sn-auth "4857544337FC1706" omci ont-lineprofile-id 139 
+ont-srvprofile-id 138 desc "阳江江城李屋寨二路二巷4号-ONU901-HW-HG8240(H)" 
+ ont add 1 26 password-auth "t756603044" hex "74373536363033303434" always-on 
+omci ont-lineprofile-id 218 ont-srvprofile-id 141 desc "
+阳江江城创业豪园B栋610-ONU118-HW-HG8310M(H)" 
+ ont alarm-policy 1 26 policy-id 1
+ ont add 1 46 sn-auth "48575443BEC55F7F" snmp ont-lineprofile-id 223 desc "阳江 江城石湾北路223号-ONU001-HW-MA5626M(J)移动综合楼(云视讯)" 
+ ont snmp-profile 1 46 profile-id 4
+ ont ipconfig 1 46 static ip-address 172.28.0.122 mask 255.255.255.128 vlan 4000 priority 6 gateway 172.28.0.1
+ ont add 1 55 sn-auth "485754435446EE0A" snmp ont-lineprofile-id 164 desc "阳江 江城供电局副楼-ON001-HW-MA5626(W)" 
+ ont snmp-profile 1 55 profile-id 3
+ ont ipconfig 1 55 static ip-address 172.28.0.88 mask 255.255.255.128 vlan 4000 priority 0 gateway 172.28.0.1
+ ont add 1 73 sn-auth "485754439853EB12" omci ont-lineprofile-id 139 
+ont-srvprofile-id 138 desc "阳江江城景湖花园景枫楼303-ONU301-HW-HG8240(H)" 
+ ont add 1 77 sn-auth "4857544304B01C91" snmp ont-lineprofile-id 138 desc "
+ONT_NO_DESCRIPTION" 
+ ont ipconfig 1 77 static ip-address 172.28.0.101 mask 255.255.255.128 vlan 4000 priority 6 gateway 172.28.0.1
+ ont add 1 78 sn-auth "48575443BEC1DF7F" snmp ont-lineprofile-id 138 desc "阳江 江城马南路8号-ONU001-HW-MA5626M(J)阳江市铁通江城（海陵）公司" 
+ ont snmp-profile 1 78 profile-id 4
+ ont ipconfig 1 78 static ip-address 172.28.0.5 mask 255.255.255.128 vlan 4000  priority 6 gateway 172.28.0.1
+ ont add 1 79 sn-auth "48575443BEBFDF7F" snmp ont-lineprofile-id 138 desc "
+YJ-YiDongGongSiYiLoushiChangBu_MA5626" 
+ ont ipconfig 1 79 static ip-address 172.28.0.70 mask 255.255.255.128 vlan 4000 priority 6 gateway 172.28.0.1
+ ont port native-vlan 1 8 eth 1 vlan 101 priority 1 
+ ont port native-vlan 1 8 eth 2 vlan 102 priority 1 
+ ont port native-vlan 1 8 eth 3 vlan 103 priority 4 
+ ont port native-vlan 1 8 eth 4 vlan 104 priority 4 
+ ont port native-vlan 1 20 eth 1 vlan 101 priority 0 
+ ont port native-vlan 1 20 eth 2 vlan 102 priority 0 
+ ont port native-vlan 1 20 eth 3 vlan 103 priority 0 
+ ont port native-vlan 1 20 eth 4 vlan 104 priority 0 
+ ont port native-vlan 1 22 eth 3 vlan 103 priority 0 
+#
+[bbs-config]
+  <bbs-config>
+ service-port 5002 vlan 20 gpon 0/1/1 ont 78 gemport 0 multi-service user-vlan  4000 tag-transform translate inbound traffic-table index 134 outbound 
+traffic-table index 134
+ service-port 5003 vlan 2223 gpon 0/1/1 ont 78 gemport 1 multi-service user-vlan 11 tag-transform translate-and-add inner-vlan 121 inbound traffic-table index  116 outbound traffic-table index 116
+ service-port 5259 vlan 20 gpon 0/1/1 ont 79 gemport 0 multi-service user-vlan  4000 tag-transform translate inbound traffic-table index 134 outbound 
+traffic-table index 134
+ service-port 5260 vlan 2223 gpon 0/1/1 ont 79 gemport 1 multi-service user-vlan 11 tag-transform translate-and-add inner-vlan 124 inbound traffic-table index  132 outbound traffic-table index 132
+ service-port 14717 vlan 20 gpon 0/1/1 ont 17 gemport 0 multi-service user-vlan 4000 tag-transform translate inbound traffic-table index 134 outbound 
+traffic-table index 134
+ service-port 14718 vlan 2226 gpon 0/1/1 ont 17 gemport 1 multi-service 
+user-vlan 11 tag-transform translate-and-add inner-vlan 3000 inner-priority 0
+ service-port 14720 vlan 1370 gpon 0/1/1 ont 17 gemport 3 multi-service 
+user-vlan 31 tag-transform translate-and-add inner-vlan 3057 inbound 
+traffic-table index 8 outbound traffic-table index 8
+ service-port 15191 vlan 1132 gpon 0/1/1 ont 8 gemport 1 multi-service user-vlan 101 tag-transform translate-and-add inner-vlan 2009 inner-priority 1 inbound 
+traffic-table index 54 outbound traffic-table index 54
+ service-port 15192 vlan 1132 gpon 0/1/1 ont 8 gemport 2 multi-service user-vlan 102 tag-transform translate-and-add inner-vlan 2009 inner-priority 1 inbound 
+traffic-table index 54 outbound traffic-table index 54
+ service-port 15193 vlan 1322 gpon 0/1/1 ont 8 gemport 3 multi-service user-vlan 103 tag-transform translate-and-add inner-vlan 2903 inner-priority 4 inbound 
+traffic-table index 75 outbound traffic-table index 75
+ service-port 15194 vlan 1322 gpon 0/1/1 ont 8 gemport 4 multi-service user-vlan 104 tag-transform translate-and-add inner-vlan 2903 inner-priority 4 inbound 
+traffic-table index 75 outbound traffic-table index 75
+ service-port 15716 vlan 2600 gpon 0/1/1 ont 20 gemport 1 multi-service 
+user-vlan 101 tag-transform translate-and-add inner-vlan 502 inbound 
+traffic-table index 8 outbound traffic-table index 8
+ service-port 15717 vlan 2600 gpon 0/1/1 ont 20 gemport 2 multi-service 
+user-vlan 102 tag-transform translate-and-add inner-vlan 502 inbound 
+traffic-table index 8 outbound traffic-table index 8
+ service-port 15718 vlan 2600 gpon 0/1/1 ont 20 gemport 3 multi-service 
+user-vlan 103 tag-transform translate-and-add inner-vlan 502 inbound 
+traffic-table index 8 outbound traffic-table index 8
+ service-port 15719 vlan 2600 gpon 0/1/1 ont 20 gemport 4 multi-service 
+user-vlan 104 tag-transform translate-and-add inner-vlan 502 inbound 
+traffic-table index 8 outbound traffic-table index 8
+ service-port 16204 vlan 1580 gpon 0/1/1 ont 17 gemport 7 multi-service 
+user-vlan 71 tag-transform translate-and-add inner-vlan 3500 inbound 
+traffic-table index 134 outbound traffic-table index 134
+ service-port 17815 vlan 20 gpon 0/1/1 ont 55 gemport 0 multi-service user-vlan 4000 tag-transform translate inbound traffic-table index 139 outbound 
+traffic-table index 139
+ service-port 17820 vlan 20 gpon 0/1/1 ont 7 gemport 0 multi-service user-vlan  4000 tag-transform translate inbound traffic-table index 139 outbound 
+traffic-table index 139
+ service-port 17827 vlan 20 gpon 0/1/1 ont 13 gemport 0 multi-service user-vlan 4000 tag-transform translate inbound traffic-table index 139 outbound 
+traffic-table index 139
+ service-port 17829 vlan 20 gpon 0/1/1 ont 14 gemport 0 multi-service user-vlan 4000 tag-transform translate inbound traffic-table index 139 outbound 
+traffic-table index 139
+ service-port 17831 vlan 20 gpon 0/1/1 ont 3 gemport 0 multi-service user-vlan  4000 tag-transform translate inbound traffic-table index 139 outbound 
+traffic-table index 139
+ service-port 17833 vlan 20 gpon 0/1/1 ont 4 gemport 0 multi-service user-vlan  4000 tag-transform translate inbound traffic-table index 139 outbound 
+traffic-table index 139
+ service-port 18525 vlan 1282 gpon 0/1/1 ont 13 gemport 1 multi-service 
+user-vlan 11 tag-transform translate-and-add inner-vlan 2055 inbound 
+traffic-table index 116 outbound traffic-table index 116
+ service-port 18526 vlan 1282 gpon 0/1/1 ont 13 gemport 2 multi-service 
+user-vlan 21 tag-transform translate-and-add inner-vlan 2055 inbound 
+traffic-table index 116 outbound traffic-table index 116
+ service-port 18528 vlan 1282 gpon 0/1/1 ont 13 gemport 3 multi-service 
+user-vlan 31 tag-transform translate-and-add inner-vlan 2055 inbound 
+traffic-table index 116 outbound traffic-table index 116
+ service-port 18529 vlan 1282 gpon 0/1/1 ont 13 gemport 4 multi-service 
+user-vlan 41 tag-transform translate-and-add inner-vlan 2055 inbound 
+traffic-table index 116 outbound traffic-table index 116
+ service-port 18531 vlan 1282 gpon 0/1/1 ont 13 gemport 5 multi-service 
+user-vlan 51 tag-transform translate-and-add inner-vlan 2055 inbound 
+traffic-table index 116 outbound traffic-table index 116
+ service-port 18532 vlan 1282 gpon 0/1/1 ont 13 gemport 6 multi-service 
+user-vlan 61 tag-transform translate-and-add inner-vlan 2055 inbound 
+traffic-table index 116 outbound traffic-table index 116
+ service-port 18558 vlan 1112 gpon 0/1/1 ont 55 gemport 1 multi-service 
+user-vlan 11 tag-transform translate-and-add inner-vlan 2142 inbound 
+traffic-table index 116 outbound traffic-table index 116
+ service-port 18560 vlan 1112 gpon 0/1/1 ont 55 gemport 2 multi-service 
+user-vlan 21 tag-transform translate-and-add inner-vlan 2103 inbound 
+traffic-table index 116 outbound traffic-table index 116
+ service-port 18562 vlan 1112 gpon 0/1/1 ont 55 gemport 3 multi-service 
+user-vlan 31 tag-transform translate-and-add inner-vlan 2103 inbound 
+traffic-table index 116 outbound traffic-table index 116
+ service-port 18564 vlan 1112 gpon 0/1/1 ont 55 gemport 4 multi-service 
+user-vlan 41 tag-transform translate-and-add inner-vlan 2103 inbound 
+traffic-table index 116 outbound traffic-table index 116
+ service-port 18825 vlan 1282 gpon 0/1/1 ont 14 gemport 1 multi-service 
+user-vlan 11 tag-transform translate-and-add inner-vlan 2098 inbound 
+traffic-table index 116 outbound traffic-table index 116
+ service-port 18826 vlan 1282 gpon 0/1/1 ont 14 gemport 2 multi-service 
+user-vlan 21 tag-transform translate-and-add inner-vlan 2098 inbound 
+traffic-table index 116 outbound traffic-table index 116
+ service-port 18827 vlan 1282 gpon 0/1/1 ont 14 gemport 3 multi-service 
+user-vlan 31 tag-transform translate-and-add inner-vlan 2098 inbound 
+traffic-table index 116 outbound traffic-table index 116
+ service-port 18828 vlan 1282 gpon 0/1/1 ont 14 gemport 4 multi-service 
+user-vlan 41 tag-transform translate-and-add inner-vlan 2098 inbound 
+traffic-table index 116 outbound traffic-table index 116
+ service-port 18829 vlan 1282 gpon 0/1/1 ont 14 gemport 5 multi-service 
+user-vlan 51 tag-transform translate-and-add inner-vlan 2098 inbound 
+traffic-table index 116 outbound traffic-table index 116
+ service-port 18830 vlan 1282 gpon 0/1/1 ont 14 gemport 6 multi-service 
+user-vlan 61 tag-transform translate-and-add inner-vlan 2098 inbound 
+traffic-table index 116 outbound traffic-table index 116
+ service-port 18848 vlan 1132 gpon 0/1/1 ont 4 gemport 1 multi-service user-vlan 11 tag-transform translate-and-add inner-vlan 2003 inbound traffic-table index 116 outbound traffic-table index 116
+ service-port 18849 vlan 1132 gpon 0/1/1 ont 4 gemport 2 multi-service user-vlan 21 tag-transform translate-and-add inner-vlan 2003 inbound traffic-table index 116 outbound traffic-table index 116
+ service-port 18850 vlan 1132 gpon 0/1/1 ont 4 gemport 3 multi-service user-vlan 31 tag-transform translate-and-add inner-vlan 2003 inbound traffic-table index 116 outbound traffic-table index 116
+ service-port 18851 vlan 1132 gpon 0/1/1 ont 4 gemport 4 multi-service user-vlan 41 tag-transform translate-and-add inner-vlan 2003 inbound traffic-table index 116 outbound traffic-table index 116
+ service-port 18852 vlan 1132 gpon 0/1/1 ont 4 gemport 5 multi-service user-vlan 51 tag-transform translate-and-add inner-vlan 2003 inbound traffic-table index 116 outbound traffic-table index 116
+ service-port 18853 vlan 1132 gpon 0/1/1 ont 4 gemport 6 multi-service user-vlan 61 tag-transform translate-and-add inner-vlan 2003 inbound traffic-table index 116 outbound traffic-table index 116
+ service-port 18854 vlan 1132 gpon 0/1/1 ont 7 gemport 1 multi-service user-vlan 11 tag-transform translate-and-add inner-vlan 2008 inbound traffic-table index 116 outbound traffic-table index 116
+ service-port 18855 vlan 1132 gpon 0/1/1 ont 7 gemport 2 multi-service user-vlan 21 tag-transform translate-and-add inner-vlan 2008 inbound traffic-table index 116 outbound traffic-table index 116
+ service-port 18856 vlan 1132 gpon 0/1/1 ont 7 gemport 3 multi-service user-vlan 31 tag-transform translate-and-add inner-vlan 2008 inbound traffic-table index 116 outbound traffic-table index 116
+ service-port 18857 vlan 1132 gpon 0/1/1 ont 7 gemport 4 multi-service user-vlan 41 tag-transform translate-and-add inner-vlan 2008 inbound traffic-table index 116 outbound traffic-table index 116
+ service-port 18858 vlan 1132 gpon 0/1/1 ont 7 gemport 5 multi-service user-vlan 51 tag-transform translate-and-add inner-vlan 2008 inbound traffic-table index 116 outbound traffic-table index 116
+ service-port 18859 vlan 1132 gpon 0/1/1 ont 7 gemport 6 multi-service user-vlan 61 tag-transform translate-and-add inner-vlan 2008 inbound traffic-table index 116 outbound traffic-table index 116
+ service-port 18860 vlan 1132 gpon 0/1/1 ont 3 gemport 1 multi-service user-vlan 11 tag-transform translate-and-add inner-vlan 2004 inbound traffic-table index 116 outbound traffic-table index 116
+ service-port 18861 vlan 1132 gpon 0/1/1 ont 3 gemport 2 multi-service user-vlan 21 tag-transform translate-and-add inner-vlan 2004 inbound traffic-table index 116 outbound traffic-table index 116
+ service-port 18862 vlan 1132 gpon 0/1/1 ont 3 gemport 3 multi-service user-vlan 31 tag-transform translate-and-add inner-vlan 2004 inbound traffic-table index 116 outbound traffic-table index 116
+ service-port 18863 vlan 1132 gpon 0/1/1 ont 3 gemport 4 multi-service user-vlan 41 tag-transform translate-and-add inner-vlan 2004 inbound traffic-table index 116 outbound traffic-table index 116
+ service-port 18864 vlan 1132 gpon 0/1/1 ont 3 gemport 5 multi-service user-vlan 51 tag-transform translate-and-add inner-vlan 2004 inbound traffic-table index 116 outbound traffic-table index 116
+ service-port 18865 vlan 1132 gpon 0/1/1 ont 3 gemport 6 multi-service user-vlan 61 tag-transform translate-and-add inner-vlan 2004 inbound traffic-table index 116 outbound traffic-table index 116
+ service-port 18884 vlan 1322 gpon 0/1/1 ont 13 gemport 16 multi-service 
+user-vlan 161 tag-transform translate-and-add inner-vlan 2903 inbound 
+traffic-table index 116 outbound traffic-table index 116
+ service-port 18893 vlan 1322 gpon 0/1/1 ont 7 gemport 8 multi-service user-vlan 81 tag-transform translate-and-add inner-vlan 2903 inbound traffic-table index 116 outbound traffic-table index 116
+ service-port 19083 vlan 1322 gpon 0/1/1 ont 13 gemport 14 multi-service 
+user-vlan 141 tag-transform translate-and-add inner-vlan 2903 inbound 
+traffic-table index 116 outbound traffic-table index 116
+ service-port 19084 vlan 1322 gpon 0/1/1 ont 13 gemport 15 multi-service 
+user-vlan 151 tag-transform translate-and-add inner-vlan 2903 inbound 
+traffic-table index 116 outbound traffic-table index 116
+ service-port 19085 vlan 1322 gpon 0/1/1 ont 14 gemport 7 multi-service 
+user-vlan 71 tag-transform translate-and-add inner-vlan 2903 inbound 
+traffic-table index 116 outbound traffic-table index 116
+ service-port 19086 vlan 1322 gpon 0/1/1 ont 14 gemport 8 multi-service 
+user-vlan 81 tag-transform translate-and-add inner-vlan 2903 inbound 
+traffic-table index 116 outbound traffic-table index 116
+ service-port 19087 vlan 1322 gpon 0/1/1 ont 4 gemport 7 multi-service user-vlan 71 tag-transform translate-and-add inner-vlan 2903 inbound traffic-table index 116 outbound traffic-table index 116
+ service-port 19088 vlan 1322 gpon 0/1/1 ont 4 gemport 8 multi-service user-vlan 81 tag-transform translate-and-add inner-vlan 2903 inbound traffic-table index 116 outbound traffic-table index 116
+ service-port 19108 vlan 1322 gpon 0/1/1 ont 55 gemport 7 multi-service 
+user-vlan 71 tag-transform translate-and-add inner-vlan 2903 inbound 
+traffic-table index 116 outbound traffic-table index 116
+ service-port 19109 vlan 1322 gpon 0/1/1 ont 55 gemport 8 multi-service 
+user-vlan 81 tag-transform translate-and-add inner-vlan 2903 inbound 
+traffic-table index 116 outbound traffic-table index 116
+ service-port 19113 vlan 1322 gpon 0/1/1 ont 7 gemport 7 multi-service user-vlan 71 tag-transform translate-and-add inner-vlan 2903 inbound traffic-table index 116 outbound traffic-table index 116
+ service-port 24420 vlan 2600 port 0/1/1 ont 21 eth 1,3,4 multi-service 
+user-vlan untagged tag-transform add-double inner-vlan 504 inbound traffic-table index 8 outbound traffic-table index 8
+ service-port 24421 vlan 2600 port 0/1/1 ont 21 eth 1 multi-service user-vlan 
+101 tag-transform translate-and-add inner-vlan 504 inbound traffic-table index 8 outbound traffic-table index 8
+ service-port 24422 vlan 2600 port 0/1/1 ont 21 eth 3 multi-service user-vlan 
+103 tag-transform translate-and-add inner-vlan 504 inbound traffic-table index 8 outbound traffic-table index 8
+ service-port 24423 vlan 2600 port 0/1/1 ont 21 eth 4 multi-service user-vlan 
+104 tag-transform translate-and-add inner-vlan 504 inbound traffic-table index 8 outbound traffic-table index 8
+ service-port 24640 vlan 1580 port 0/1/1 ont 21 eth 2 multi-service user-vlan 
+untagged tag-transform add-double inner-vlan 100 inbound traffic-table index 71 outbound traffic-table index 71
+ service-port 24641 vlan 1580 port 0/1/1 ont 21 eth 2 multi-service user-vlan 
+102 tag-transform translate-and-add inner-vlan 100 inbound traffic-table index  71 outbound traffic-table index 71
+ service-port 26278 vlan 2224 port 0/1/1 ont 18 eth 3 multi-service user-vlan 
+103 tag-transform translate-and-add inner-vlan 800 inbound traffic-table index  37 outbound traffic-table index 37
+ service-port 26279 vlan 2224 port 0/1/1 ont 18 eth 3 multi-service user-vlan 
+untagged tag-transform add-double inner-vlan 800 inbound traffic-table index 37 outbound traffic-table index 37
+ service-port 27676 vlan 2500 port 0/1/1 ont 25 eth 1 multi-service user-vlan 
+101 tag-transform translate-and-add inner-vlan 4000 inbound traffic-table index 8 outbound traffic-table index 8
+ service-port 27677 vlan 2223 port 0/1/1 ont 25 eth 2 multi-service user-vlan 
+102 tag-transform translate-and-add inner-vlan 132 inbound traffic-table index 8 outbound traffic-table index 8
+ service-port 27678 vlan 2227 port 0/1/1 ont 25 eth 3 multi-service user-vlan 
+103 tag-transform translate-and-add inner-vlan 609 inbound traffic-table index 8 outbound traffic-table index 8
+ service-port 27679 vlan 2500 port 0/1/1 ont 25 eth 4 multi-service user-vlan 
+104 tag-transform translate-and-add inner-vlan 1089 inbound traffic-table index 8 outbound traffic-table index 8
+ service-port 27680 vlan 2500 port 0/1/1 ont 25 eth 1 multi-service user-vlan 
+untagged tag-transform add-double inner-vlan 4000 inbound traffic-table index 8 outbound traffic-table index 8
+ service-port 27681 vlan 2223 port 0/1/1 ont 25 eth 2 multi-service user-vlan 
+untagged tag-transform add-double inner-vlan 132 inbound traffic-table index 8  outbound traffic-table index 8
+ service-port 27682 vlan 2227 port 0/1/1 ont 25 eth 3 multi-service user-vlan 
+untagged tag-transform add-double inner-vlan 609 inbound traffic-table index 8  outbound traffic-table index 8
+ service-port 27683 vlan 2500 port 0/1/1 ont 25 eth 4 multi-service user-vlan 
+untagged tag-transform add-double inner-vlan 1089 inbound traffic-table index 8 outbound traffic-table index 8
+ service-port 28619 vlan 2227 port 0/1/1 ont 18 eth 2 multi-service user-vlan 
+102 tag-transform translate-and-add inner-vlan 600 inbound traffic-table index  29 outbound traffic-table index 29
+ service-port 28620 vlan 2223 port 0/1/1 ont 18 eth 4 multi-service user-vlan 
+104 tag-transform translate-and-add inner-vlan 148 inbound traffic-table index  57 outbound traffic-table index 57
+ service-port 28622 vlan 2227 port 0/1/1 ont 18 eth 2 multi-service user-vlan 
+untagged tag-transform add-double inner-vlan 600 inbound traffic-table index 29 outbound traffic-table index 29
+ service-port 28623 vlan 2223 port 0/1/1 ont 18 eth 4 multi-service user-vlan 
+untagged tag-transform add-double inner-vlan 148 inbound traffic-table index 57 outbound traffic-table index 57
+ service-port 28656 vlan 2600 port 0/1/1 ont 73 eth 1 multi-service user-vlan 
+101 tag-transform translate-and-add inner-vlan 507 inbound traffic-table index 8 outbound traffic-table index 8
+ service-port 28657 vlan 2223 port 0/1/1 ont 73 eth 2 multi-service user-vlan 
+102 tag-transform translate-and-add inner-vlan 145 inbound traffic-table index  57 outbound traffic-table index 57
+ service-port 28658 vlan 2600 port 0/1/1 ont 73 eth 1 multi-service user-vlan 
+untagged tag-transform add-double inner-vlan 507 inbound traffic-table index 8  outbound traffic-table index 8
+ service-port 28659 vlan 2223 port 0/1/1 ont 73 eth 2 multi-service user-vlan 
+untagged tag-transform add-double inner-vlan 145 inbound traffic-table index 57 outbound traffic-table index 57
+ service-port 33721 vlan 2226 port 0/1/1 ont 18 multi-service user-vlan 48 
+tag-transform translate-and-add inner-vlan 3003 inner-priority 6 inbound 
+traffic-table index 147 outbound traffic-table index 147
+ service-port 33854 vlan 3777 port 0/1/1 ont 18 multi-service user-vlan 45 
+tag-transform translate-and-add inner-vlan 1942 inner-priority 6 inbound 
+traffic-table index 147 outbound traffic-table index 147
+ service-port 34495 vlan 900 gpon 0/1/1 ont 17 gemport 1 multi-service user-vlan 900 tag-transform translate
+ service-port 34695 vlan 2223 gpon 0/1/1 ont 17 gemport 18 multi-service 
+user-vlan 181 tag-transform translate-and-add inner-vlan 114 inbound 
+traffic-table index 131 outbound traffic-table index 131
+ service-port 34698 vlan 2223 port 0/1/1 ont 18 eth 1 multi-service user-vlan 
+101 tag-transform translate-and-add inner-vlan 113 inbound traffic-table index  42 outbound traffic-table index 42
+ service-port 34699 vlan 2223 port 0/1/1 ont 18 eth 1 multi-service user-vlan 
+untagged tag-transform add-double inner-vlan 113 inbound traffic-table index 42 outbound traffic-table index 42
+ service-port 37158 vlan 2224 gpon 0/1/1 ont 17 gemport 19 multi-service 
+user-vlan 191 tag-transform translate-and-add inner-vlan 644 inbound 
+traffic-table index 131 outbound traffic-table index 131
+ service-port 37272 vlan 1311 gpon 0/1/1 ont 17 gemport 10 multi-service 
+user-vlan 101 tag-transform translate-and-add inner-vlan 101 inbound 
+traffic-table index 8 outbound traffic-table index 8
+ service-port 37570 vlan 2600 port 0/1/1 ont 9 multi-service user-vlan 103 
+tag-transform translate-and-add inner-vlan 665 inbound traffic-table index 8 
+outbound traffic-table index 8
+ service-port 37571 vlan 2226 port 0/1/1 ont 9 multi-service user-vlan 48 
+tag-transform translate-and-add inner-vlan 151 inner-priority 6 inbound 
+traffic-table index 8 outbound traffic-table index 8
+ service-port 37572 vlan 2600 port 0/1/1 ont 9 eth 3 multi-service user-vlan 
+untagged tag-transform add-double inner-vlan 665 inbound traffic-table index 8  outbound traffic-table index 8
+ service-port 37573 vlan 2600 port 0/1/1 ont 9 eth 4 multi-service user-vlan 
+untagged tag-transform add-double inner-vlan 665 inbound traffic-table index 8  outbound traffic-table index 8
+ service-port 38753 vlan 2228 port 0/1/1 ont 1 multi-service user-vlan 46 
+tag-transform translate-and-add inner-vlan 1302 inner-priority 7 inbound 
+traffic-table index 148 outbound traffic-table index 148
+ service-port 38754 vlan 2600 port 0/1/1 ont 1 multi-service user-vlan 41 
+tag-transform translate-and-add inner-vlan 662 inbound traffic-table index 8 
+outbound traffic-table index 8
+ service-port 38755 vlan 2226 port 0/1/1 ont 1 multi-service user-vlan 50 
+tag-transform translate-and-add inner-vlan 2004 inner-priority 6 inbound 
+traffic-table index 147 outbound traffic-table index 147
+ service-port 38756 vlan 2226 port 0/1/1 ont 1 multi-service user-vlan 48 
+tag-transform translate-and-add inner-vlan 1954 inner-priority 6 inbound 
+traffic-table index 147 outbound traffic-table index 147
+ service-port 39086 vlan 2600 port 0/1/1 ont 9 multi-service user-vlan 101 
+tag-transform translate-and-add inner-vlan 665 inbound traffic-table index 8 
+outbound traffic-table index 8
+ service-port 39424 vlan 2227 gpon 0/1/1 ont 17 gemport 15 multi-service 
+user-vlan 151 tag-transform translate-and-add inner-vlan 600 inbound 
+traffic-table index 131 outbound traffic-table index 131
+ service-port 39793 vlan 2620 gpon 0/1/1 ont 17 gemport 8 multi-service 
+user-vlan 81 tag-transform translate-and-add inner-vlan 3106 inbound 
+traffic-table index 8 outbound traffic-table index 8
+ service-port 39901 vlan 20 gpon 0/1/1 ont 46 gemport 0 multi-service user-vlan 4000 tag-transform translate inbound traffic-table index 134 outbound 
+traffic-table index 134
+ service-port 39902 vlan 2223 gpon 0/1/1 ont 46 gemport 1 multi-service 
+user-vlan 11 tag-transform translate-and-add inner-vlan 120 inbound 
+traffic-table index 116 outbound traffic-table index 116
+ service-port 39907 vlan 20 gpon 0/1/1 ont 77 gemport 0 multi-service user-vlan 4000 tag-transform translate inbound traffic-table index 134 outbound 
+traffic-table index 134
+ service-port 39908 vlan 2223 gpon 0/1/1 ont 77 gemport 3 multi-service 
+user-vlan 31 tag-transform translate-and-add inner-vlan 121 inbound 
+traffic-table index 149 outbound traffic-table index 149
+ service-port 40086 vlan 2226 gpon 0/1/1 ont 46 gemport 8 multi-service 
+user-vlan 81 tag-transform translate-and-add inner-vlan 2338 inbound 
+traffic-table index 147 outbound traffic-table index 147
+ service-port 40095 vlan 2226 port 0/1/1 ont 11 multi-service user-vlan 48 
+tag-transform translate-and-add inner-vlan 2188 inner-priority 6 inbound 
+traffic-table index 147 outbound traffic-table index 147
+ service-port 40096 vlan 2228 port 0/1/1 ont 11 multi-service user-vlan 46 
+tag-transform translate-and-add inner-vlan 2859 inner-priority 7 inbound 
+traffic-table index 148 outbound traffic-table index 148
+ service-port 40097 vlan 2500 port 0/1/1 ont 11 multi-service user-vlan 41 
+tag-transform translate-and-add inner-vlan 1976 inner-priority 0 inbound 
+traffic-table index 140 outbound traffic-table index 140
+ service-port 40223 vlan 2530 port 0/1/1 ont 22 multi-service user-vlan 101 
+tag-transform translate-and-add inner-vlan 100 inner-priority 0 inbound 
+traffic-table index 8 outbound traffic-table index 8
+ service-port 40224 vlan 2530 port 0/1/1 ont 22 multi-service user-vlan 103 
+tag-transform translate-and-add inner-vlan 100 inner-priority 0 inbound 
+traffic-table index 8 outbound traffic-table index 8
+ service-port 40351 vlan 2228 port 0/1/1 ont 15 multi-service user-vlan 46 
+tag-transform translate-and-add inner-vlan 2969 inner-priority 7 inbound 
+traffic-table index 148 outbound traffic-table index 148
+ service-port 40352 vlan 2500 port 0/1/1 ont 15 multi-service user-vlan 41 
+tag-transform translate-and-add inner-vlan 2099 inner-priority 0 inbound 
+traffic-table index 140 outbound traffic-table index 140
+ service-port 40587 vlan 900 gpon 0/1/1 ont 46 gemport 300 multi-service 
+user-vlan 900 tag-transform translate inbound traffic-table index 6 outbound 
+traffic-table index 6
+ service-port 40713 vlan 1068 port 0/1/1 ont 16 multi-service user-vlan 46 
+tag-transform translate-and-add inner-vlan 1075 inner-priority 7 inbound 
+traffic-table index 148 outbound traffic-table index 148
+ service-port 40714 vlan 2500 port 0/1/1 ont 16 multi-service user-vlan 41 
+tag-transform translate-and-add inner-vlan 2177 inner-priority 0 inbound 
+traffic-table index 140 outbound traffic-table index 140
+ service-port 40715 vlan 2227 port 0/1/1 ont 16 multi-service user-vlan 45 
+tag-transform translate-and-add inner-vlan 1000 inner-priority 6 inbound 
+traffic-table index 147 outbound traffic-table index 147
+ service-port 40846 vlan 2500 port 0/1/1 ont 10 eth 1 multi-service user-vlan 
+untagged tag-transform add-double inner-vlan 2236 inner-priority 0 inbound 
+traffic-table index 140 outbound traffic-table index 140
+ service-port 41010 vlan 2500 port 0/1/1 ont 12 eth 1 multi-service user-vlan 
+untagged tag-transform add-double inner-vlan 2306 inner-priority 0 inbound 
+traffic-table index 140 outbound traffic-table index 140
+ service-port 41228 vlan 2500 port 0/1/1 ont 24 eth 1 multi-service user-vlan 
+untagged tag-transform add-double inner-vlan 1969 inner-priority 0 inbound 
+traffic-table index 140 outbound traffic-table index 140
+ service-port 41411 vlan 1068 port 0/1/1 ont 26 multi-service user-vlan 46 
+tag-transform translate-and-add inner-vlan 1342 inner-priority 7 inbound 
+traffic-table index 148 outbound traffic-table index 148
+ service-port 41412 vlan 2500 port 0/1/1 ont 26 multi-service user-vlan 41 
+tag-transform translate-and-add inner-vlan 2393 inner-priority 0 inbound 
+traffic-table index 140 outbound traffic-table index 140
+ service-port 41851 vlan 2223 gpon 0/1/1 ont 46 gemport 2 multi-service 
+user-vlan 21 tag-transform translate-and-add inner-vlan 108 inbound 
+traffic-table index 128 outbound traffic-table index 128
+ service-port 42671 vlan 2226 port 0/1/1 ont 2 multi-service user-vlan 48 
+tag-transform translate-and-add inner-vlan 1400 inner-priority 6 inbound 
+traffic-table index 147 outbound traffic-table index 147
+ service-port 42672 vlan 2226 port 0/1/1 ont 2 multi-service user-vlan 50 
+tag-transform translate-and-add inner-vlan 1159 inner-priority 6 inbound 
+traffic-table index 147 outbound traffic-table index 147
+ service-port 42673 vlan 2228 port 0/1/1 ont 2 multi-service user-vlan 46 
+tag-transform translate-and-add inner-vlan 1739 inner-priority 7 inbound 
+traffic-table index 148 outbound traffic-table index 148
+ service-port 42835 vlan 2500 port 0/1/1 ont 2 multi-service user-vlan 41 
+tag-transform translate-and-add inner-vlan 3005 inner-priority 0 inbound 
+traffic-table index 140 outbound traffic-table index 140
+ service-port 42925 vlan 2224 gpon 0/1/1 ont 17 gemport 20 multi-service 
+user-vlan 201 tag-transform translate-and-add inner-vlan 644 inbound 
+traffic-table index 131 outbound traffic-table index 131
+ service-port 42996 vlan 2500 port 0/1/1 ont 2 multi-service user-vlan 42 
+tag-transform translate-and-add inner-vlan 3005 inner-priority 0 inbound 
+traffic-table index 140 outbound traffic-table index 140
+ service-port desc 38753 description "TR069"
+ service-port desc 38755 description "OTT2"
+ service-port desc 38756 description "OTT1"
+ service-port desc 40095 description "OTT1"
+ service-port desc 40096 description "TR069"
+ service-port desc 40097 description "INTERNET"
+ service-port desc 40351 description "TR069"
+ service-port desc 40352 description "INTERNET"
+ service-port desc 40713 description "TR069"
+ service-port desc 40714 description "INTERNET"
+ service-port desc 40715 description "VOIP"
+ service-port desc 40846 description "INTERNET"
+ service-port desc 41010 description "INTERNET"
+ service-port desc 41228 description "INTERNET"
+ service-port desc 41411 description "TR069"
+ service-port desc 41412 description "INTERNET"
+ service-port desc 42671 description "OTT1"
+ service-port desc 42672 description "OTT2"
+ service-port desc 42673 description "TR069"
+ service-port desc 42835 description "chongfuvlanzhenggai"
+ service-port desc 42996 description "chongfuvlanzhenggai"
+#
+[btv-config]
+  <btv-config>
+ btv
+ igmp cascade-port 0/1/1 ontid 17 gemport-index 1
+ btv
+ igmp user add service-port 40587 no-auth
+ igmp user add service-port 37571 no-auth
+ igmp user add service-port 42671 no-auth
+ igmp user add service-port 42672 no-auth
+ igmp user add service-port 38755 no-auth
+ igmp user add service-port 38756 no-auth
+ igmp user add service-port 40086 no-auth
+ igmp user add service-port 40095 no-auth
+ igmp user add service-port 33721 no-auth
+ multicast-vlan 900
+  igmp multicast-vlan member service-port-list 33721,37571,38755-38756,40086,
+40095,40587,42671-42672
+#
+return
+
+
+[END] 2017/11/27 17:17:36
